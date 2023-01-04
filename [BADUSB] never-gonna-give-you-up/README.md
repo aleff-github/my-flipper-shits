@@ -13,6 +13,9 @@ When a mouse movement is detected, that video will be played in the PowerShell c
 
 ## Getting Started
 
+### Usage
+YouTube video - [click here](https://youtube.com/shorts/XRY_MEYQUxA)
+
 ### Dependencies
 
 * An internet connection
