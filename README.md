@@ -3,12 +3,14 @@
 
 <div align=center>
 
+<img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif width="150" />
+
+<br>
+<br>
+
 <img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png width="600" />
 
 <br>
-
-<img src= https://github.com/aleff-github/my-flipper-shits/blob/main/img/gif/flipper_zero%20(15).gif width="150" />
-
 <br>
 
 |Section|Name|State|
@@ -22,3 +24,7 @@
 <br>
 
 </div>
+
+
+## Credits
+- [Aleff](https://github.com/aleff-github)
