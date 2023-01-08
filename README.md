@@ -11,9 +11,9 @@
 
 |Section|Name|State|
 |--|--|--|
-|BADUSB|WiFiGrabber|❌|
-|BADUSB|Never Gonna Give You Up|✅|
-|BADUSB|ProtonVPN-config|✅|
-|BADUSB|Windows-netstat|✅|
+|BADUSB|[Never Gonna Give You Up]()|✅|
+|BADUSB|[ProtonVPN config]()|✅|
+|BADUSB|[Windows netstat]()|✅|
+|BADUSB|[WLAN Windows Passwords]()|✅|
 
 </div>
