@@ -13,17 +13,17 @@ $TMP_Body = @{
 	'username' = $env:username
 	'content' = ""
 }
- for($i = 0; $i -lt $Body['content'].Length; $i+=$ConstantLimitForRestMethod){
+ for($i = 0; $i -lt $text.Length; $i+=$ConstantLimitForRestMethod){
 	try {
 		$TMP_Body = @{
   			'username' = $env:username
   			'content' = $text.Substring($i, $ConstantLimitForRestMethod)
 		}
 	} catch [ArgumentOutOfRangeException] {
-		if($tmp.Length-$i -gt 0){
+		if($text.Length-$i -gt 0){
 			$TMP_Body = @{
   			'username' = $env:username
-  			'content' = $text.Substring($i, $tmp.Length-$i)
+  			'content' = $text.Substring($i, $text.Length-$i)
 			}
 		} else {
 			break
