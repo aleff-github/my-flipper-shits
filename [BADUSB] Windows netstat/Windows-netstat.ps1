@@ -37,31 +37,31 @@ function send_command($command){
 $hookurl = "$discord"
 
 # Settings
-if $default -eq 1{
+if $d -eq "1" {
 	send_command("netstat")
 }
 
-if $routing_table -eq 1 {
+if $r -eq "1" {
 	send_command("netstat -r")
 }
 
-if $listening_canonical -eq 1{
+if $lc -eq "1" {
 	send_command("netstat -af")
 }
-if $listening_numerical -eq 1{
+if $ln -eq "1" {
 	send_command("netstat -an")
 }
-if $all_canonical -eq 1{
+if $ac -eq "1" {
 	send_command("netstat -qf")
 }
-if $all_numerical -eq 1{
+if $an -eq "1" {
 	send_command("netstat -qn")
 }
-if $offload -eq 1{
+if $o -eq "1" {
 	send_command("netstat -t")
 }
-if $proto -ne ""{
+if $p -ne ""{
 	# format $proto="TCP"
-	$cmd = "netstat -ps " + $proto
+	$cmd = "netstat -ps " + $p
 	send_command($cmd)
 }

