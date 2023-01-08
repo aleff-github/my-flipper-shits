@@ -11,9 +11,9 @@
 
 |Section|Name|State|
 |--|--|--|
-|BADUSB|[Never Gonna Give You Up]()|✅|
-|BADUSB|[ProtonVPN config]()|✅|
-|BADUSB|[Windows netstat]()|✅|
-|BADUSB|[WLAN Windows Passwords]()|✅|
+|BADUSB|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Never%20Gonna%20Give%20You%20Up)|✅|
+|BADUSB|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20ProtonVPN%20Config%20File)|✅|
+|BADUSB|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Windows%20netstat)|✅|
+|BADUSB|[WLAN Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20WLAN%20Windows%20Passwords)|✅|
 
 </div>
