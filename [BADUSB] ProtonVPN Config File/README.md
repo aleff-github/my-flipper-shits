@@ -35,7 +35,7 @@ Then it cleans up traces of what you have done after.
 ### Executing program
 
 * Plug in your device
-* Invoce Get-Content for get in plaintext the ProtonVPN .config content
+* Invoke Get-Content for get in plaintext the ProtonVPN .config content
 * Invoke-WebRequest will be entered in the Run Box to send the content
 
 ```
