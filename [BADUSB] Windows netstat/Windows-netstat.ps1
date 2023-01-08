@@ -38,13 +38,13 @@ $hookurl = "$discord"
 
 # Settings
 if ( $d -eq "1") {
-	send_command("netstat")
+	$cmd = "netstat"
+	echo "Starting " + $cmd
+	send_command($cmd)
 }
-
 if ( $r -eq "1") {
 	send_command("netstat -r")
 }
-
 if ( $lc -eq "1") {
 	send_command("netstat -af")
 }
