@@ -1,7 +1,5 @@
 # Send Signal Messages - BadUSB ✅
 
-🥰 **Plug And Play** 🥰
-
 A script used to impersonate another person in sending a message via the Signal application.
 
 **Category**: Prank, Execution
