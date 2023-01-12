@@ -6,4 +6,7 @@ except:
     import psutil
 
 for process in psutil.process_iter():
-    process.terminate()
+    try:
+        process.terminate()
+    except:
+        pass
