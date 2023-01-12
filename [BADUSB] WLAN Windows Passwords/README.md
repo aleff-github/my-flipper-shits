@@ -1,4 +1,4 @@
-# WLAN Windows Password - BadUSB ✅
+# WLAN Windows Password - BADUSB ✅
 
 A script used to stole target WLAN Passwords.
 

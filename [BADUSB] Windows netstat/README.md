@@ -1,4 +1,4 @@
-# Windows netstat - BadUSB ✅
+# Windows netstat - BADUSB ✅
 
 A script used to stole target netstat status.
 

