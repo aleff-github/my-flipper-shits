@@ -74,3 +74,6 @@ if ( $p -ne "" ) {
 	$cmd = "netstat -ps " + $p
 	(send_command $cmd)
 }
+
+# Clear the PowerShell command history
+Clear-History

