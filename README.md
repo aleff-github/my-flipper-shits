@@ -23,11 +23,12 @@
 
 |Section|Category|Name|PlugAndPlay|
 |--|--|--|--|
-|BADUSB|Windows, Prank, Execution|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Send%20Signal%20Messages)|🟡|
-|BADUSB|Windows, Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Never%20Gonna%20Give%20You%20Up)|🟢|
-|BADUSB|Windows, Exfiltration, Credentials|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20ProtonVPN%20Config%20File)|🟡|
-|BADUSB|Windows, Network, Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Windows%20netstat)|🔴|
-|BADUSB|Windows, Exfiltration, Credentials|[WLAN Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20WLAN%20Windows%20Passwords)|🟡|
+|BadUSB|Windows, Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBadUSB%5D%20Close%20All%20Applications%20-%20Windows)|🟢|
+|BadUSB|Windows, Prank, Execution|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBadUSB%5D%20Send%20Signal%20Messages)|🟡|
+|BadUSB|Windows, Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBadUSB%5D%20Never%20Gonna%20Give%20You%20Up)|🟢|
+|BadUSB|Windows, Exfiltration, Credentials|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBadUSB%5D%20ProtonVPN%20Config%20File)|🟡|
+|BadUSB|Windows, Network, Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBadUSB%5D%20Windows%20netstat)|🔴|
+|BadUSB|Windows, Exfiltration, Credentials|[WLAN Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBadUSB%5D%20WLAN%20Windows%20Passwords)|🟡|
 |ELSE|Prank|[Flipper Zero GIF](https://github.com/aleff-github/my-flipper-shits/tree/main/img/gif)|🟢|
 
 ## Credits

