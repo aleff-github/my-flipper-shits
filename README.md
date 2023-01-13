@@ -36,9 +36,8 @@
 
 |Name|Link|
 |--|--|
-|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Close%20All%20Applications%20-%20Windows)|https://youtube.com/shorts/XRY_MEYQUxA|
-|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Never%20Gonna%20Give%20You%20Up)|https://youtube.com/shorts/fbXgI-4ABhU|
-
+|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Close%20All%20Applications%20-%20Windows)|https://youtube.com/shorts/fbXgI-4ABhU|
+|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Never%20Gonna%20Give%20You%20Up)|https://youtube.com/shorts/XRY_MEYQUxA|
 
 ## Credits
 - [Aleff](https://github.com/aleff-github)
