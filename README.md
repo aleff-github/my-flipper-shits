@@ -22,15 +22,15 @@
 
 ## Payloads
 
-|Section|Category|Name|PlugAndPlay|
-|--|--|--|--|
-|BADUSB|Windows, Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Close%20All%20Applications%20-%20Windows)|🟢|
-|BADUSB|Windows, Prank, Execution|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Send%20Signal%20Messages)|🟡|
-|BADUSB|Windows, Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Never%20Gonna%20Give%20You%20Up)|🟢|
-|BADUSB|Windows, Exfiltration, Credentials|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20ProtonVPN%20Config%20File)|🟡|
-|BADUSB|Windows, Network, Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Windows%20netstat)|🔴|
-|BADUSB|Windows, Exfiltration, Credentials|[WLAN Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20WLAN%20Windows%20Passwords)|🟡|
-|ELSE|Prank|[Flipper Zero GIF](https://github.com/aleff-github/my-flipper-shits/tree/main/img/gif)|🟢|
+|Section|Category|Name|PlugAndPlay|Hak5|
+|--|--|--|--|--|
+|BADUSB|Windows, Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Close%20All%20Applications%20-%20Windows)|🟢|❌ Not yet|
+|BADUSB|Windows, Prank, Execution|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Send%20Signal%20Messages)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
+|BADUSB|Windows, Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Never%20Gonna%20Give%20You%20Up)|🟢|❌ Not yet|
+|BADUSB|Windows, Exfiltration, Credentials|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20ProtonVPN%20Config%20File)|🟡|❌ Not yet|
+|BADUSB|Windows, Network, Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Windows%20netstat)|🔴|❌ Not yet|
+|BADUSB|Windows, Exfiltration, Credentials|[WLAN Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20WLAN%20Windows%20Passwords)|🟡|❌ Not yet|
+|ELSE|Prank|[Flipper Zero GIF](https://github.com/aleff-github/my-flipper-shits/tree/main/img/gif)|🟢|❌ Not yet|
 
 ## Videos
 
