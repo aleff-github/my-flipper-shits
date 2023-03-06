@@ -31,6 +31,7 @@
 |BADUSB|Windows|Network, Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Windows%20netstat)|🔴|❌ Not yet|
 |BADUSB|Windows|Exfiltration, Credentials|[WLAN Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20WLAN%20Windows%20Passwords)|🟡|❌ Not yet|
 |BADUSB|Linux|Exfiltration, Credentials|[Steal Linux Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Steal%20Linux%20Documents)|🟡|❌ Not yet|
+|BADUSB|Linux|Exfiltration, Credentials|[Steal Linux Logs](https://github.com/aleff-github/my-flipper-shits/tree/main/%5BBADUSB%5D%20Steal%20Linux%20Logs)|🟡|❌ Not yet|
 |ELSE|//|Prank|[Flipper Zero GIF](https://github.com/aleff-github/my-flipper-shits/tree/main/img/gif)|🟢|❌ Not yet|
 
 ## Videos
