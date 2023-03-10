@@ -1,7 +1,7 @@
  
-# Change Network Configuration - BadUSB ✅
+# Change MAC Address - BadUSB ✅
 
-A script used to change the network configuration on a Linux machine.
+A script used to change the MAC address on a Linux machine.
 
 **Category**: Execution
 
@@ -9,9 +9,9 @@ A script used to change the network configuration on a Linux machine.
 
 ## Description
 
-A script used to change the network configuration on a Linux machine.
+A script used to change the MAC address on a Linux machine.
 
-Opens a shell, get the network card name, set the network configuration, erase traces.
+Opens a shell, get the network card name, set the new MAC address, erase traces.
 
 ## Getting Started
 
@@ -27,4 +27,4 @@ Opens a shell, get the network card name, set the network configuration, erase t
 ### Settings
 
 * Set the sudo password
-* Change as you want the network configuration
+* Change as you want the new MAC address

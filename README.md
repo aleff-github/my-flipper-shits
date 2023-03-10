@@ -32,6 +32,8 @@
 |BADUSB|Windows|Exfiltration, Credentials|[WiFi Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/WiFiPasswords_Windows)|🟡|❌ Not yet|
 |BADUSB|Linux|Exfiltration, Credentials|[Steal Linux Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/StealDocumentsFolder_Linux)|🟡|❌ Not yet|
 |BADUSB|Linux|Exfiltration, Credentials|[Steal Linux Logs](https://github.com/aleff-github/my-flipper-shits/tree/main/StealLogFiles_Linux)|🟡|❌ Not yet|
+|BADUSB|Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|❌ Not yet|
+|BADUSB|Linux|Execution|[Change MAC Address](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeMacAddress_Linux)|🟡|❌ Not yet|
 |ELSE|//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌ Not yet|
 
 ## Videos
