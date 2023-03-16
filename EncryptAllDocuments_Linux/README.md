@@ -1,4 +1,4 @@
-# Cipher All Documents - BadUSB ✅
+# Encrypt All Documents - BadUSB ✅
 
 A script used to encrypt all documents.
 
