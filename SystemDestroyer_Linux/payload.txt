@@ -9,8 +9,13 @@ REM # Target       : Linux            |
 REM #                                 |
 REM ###################################
 
+
+REM 
+REM ATTENTION - BEFORE USING THIS PAYLOAD MAKE SURE YOU UNDERSTAND WHAT IT DOES
+REM 
 REM Requirements:
 REM     - Permissions
+REM 
 
 DELAY 1000
 CTRL-ALT t
