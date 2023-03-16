@@ -39,7 +39,7 @@
 |BadUSB|Linux|Phising, Credentials, Exfiltration|[Exfiltrate WiFi Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateWiFiPasswords_Linux)|🟡|❌ Not yet|
 |BadUSB|Linux|Execution|[System Destroyer](https://github.com/aleff-github/my-flipper-shits/tree/main/SystemDestroyer_Linux)|🟡|✖️ Nope|
 |BadUSB|Linux|Execution|[Change MAC Address](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeMacAddress_Linux)|🟡|❌ Not yet|
-|BadUSB|Linux|Execution|[CipherAllDocuments](https://github.com/aleff-github/my-flipper-shits/tree/main/CipherAllDocuments_Linux)|🟡|❌ Not yet|
+|BadUSB|Linux|Execution|[Encrypt All Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/EncryptAllDocuments_Linux)|🟡|❌ Not yet|
 |ELSE|//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌ Not yet|
 
 ## Videos

