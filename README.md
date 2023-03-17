@@ -42,6 +42,7 @@
 |BadUSB|Linux|Execution|[Encrypt All Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/EncryptAllDocuments_Linux)|🟡|❌ Not yet|
 |BadUSB|Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |BadUSB|Linux|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendTelegramMessages_Linux)|🟡|❌ Not yet|
+|BadUSB|Linux|Exfiltration|[Exfiltrate Process Info](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateProcessInfo_Linux)|🟡|❌ Not yet|
 |ELSE|//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌ Not yet|
 
 
