@@ -1,4 +1,4 @@
-# ProtonVPN config file - BADUSB ✅
+# ProtonVPN config file - BadUSB ✅
 
 A script used to stole target ProtonVPN config file.
 

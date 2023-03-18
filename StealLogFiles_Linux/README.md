@@ -1,5 +1,5 @@
  
-# Steal Linux Log Files - BADUSB ✅
+# Steal Linux Log Files - BadUSB ✅
 
 A script used to steal linux logs.
 

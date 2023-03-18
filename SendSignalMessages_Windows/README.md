@@ -1,4 +1,4 @@
-# Send Signal Messages - BADUSB ✅
+# Send Signal Messages - BadUSB ✅
 
 A script used to impersonate another person in sending a message via the Signal application.
 

@@ -1,4 +1,4 @@
-# Never Gonna Give You Up in Flipper Zero - BADUSB ✅
+# Never Gonna Give You Up in Flipper Zero - BadUSB ✅
 
 A script used to meme your target.
 

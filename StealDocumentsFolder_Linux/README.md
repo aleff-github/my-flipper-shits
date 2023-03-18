@@ -1,5 +1,5 @@
  
-# Steal Linux Content With Dropbox - BADUSB ✅
+# Steal Linux Content With Dropbox - BadUSB ✅
 
 A script used to close all target open applications.
 
