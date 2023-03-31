@@ -40,9 +40,10 @@
 |BadUSB|Linux|Exfiltration, Credentials|[Exfiltrate Linux Logs](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateLogFiles_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-log-files)|
 |BadUSB|Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-network-configuration)|
 |BadUSB|Linux|Exfiltration, Execution|[Exfiltrate Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-network-configuration)|
-|BadUSB|Linux|Phising, Credentials, Exfiltration|[Exfiltrate Email And Password By Phising](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateEmailAndPasswordByPhising_Linux)|🟡|❌ Not yet|
-|BadUSB|Linux|Phising, Credentials, Exfiltration|[Exfiltrate Sudo Password By Phishing](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateSudoPasswordByPhising_Linux)|🟡|❌ Not yet|
-|BadUSB|Linux|Phising, Credentials, Exfiltration|[Exfiltrate WiFi Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateWiFiPasswords_Linux)|🟡|❌ Not yet|
+|BadUSB|Linux|Phising|[Exfiltrate Email And Password By Phising](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateEmailAndPasswordByPhising_Linux)|🟡|❌ Not yet|
+|BadUSB|Linux|Phising|[Exfiltrate Sudo Password By Phishing](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateSudoPasswordByPhising_Linux)|🟡|❌ Not yet|
+|BadUSB|Linux|Phising|[Exfiltrate WiFi Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateWiFiPasswords_Linux)|🟡|❌ Not yet|
+|BadUSB|Linux|Phising|[Standard Phishing Attack](https://github.com/aleff-github/my-flipper-shits/tree/main/StandardPhishingAttack_Linux)|🟡|❌ Not yet|
 |BadUSB|Linux|Execution|[Change MAC Address](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeMacAddress_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-mac-address)|
 |BadUSB|Linux|Execution|[Set Arbitrary VPN](https://github.com/aleff-github/my-flipper-shits/tree/main/SetArbitraryVPN_Linux)|🟡|❌ Not yet|
 |BadUSB|Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
