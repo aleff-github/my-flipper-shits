@@ -1,0 +1,41 @@
+REM ###########################################
+REM #                                         |
+REM # Title        : Change Desktop Wallpaper |
+REM # Author       : Aleff                    |
+REM # Version      : 1.0                      |
+REM # Category     : Prank                    |
+REM # Target       : Linux (KDE based)        |
+REM #                                         |
+REM ###########################################
+
+REM Requirements:
+REM     - Internet Connection
+
+DELAY 1000
+CTRL-ALT t
+DELAY 2000
+
+REM Replace 'example.com/IMAGE_NAME' with your image link
+STRING wget example.com/IMAGE_NAME
+ENTER
+
+
+REM It depends by the Internet Connection
+DELAY 2000
+
+STRING qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.evaluateScript 'var allDesktops = desktops();for (i=0;i<allDesktops.length;i++) {d = allDesktops[i]; d.wallpaperPlugin = "org.kde.image";d.currentConfigGroup = Array("Wallpaper", "org.kde.image", "General");d.writeConfig("Image", "
+REM 
+REM Replace example.jpg with the image path, for example /home/USERNAME/example.jpg
+REM 
+STRING file://example.jpg
+STRING ")}'
+ENTER
+DELAY 1000
+
+STRING rm -rf 
+REM 
+REM Replace example.jpg with the image path, for example /home/USERNAME/example.jpg
+REM 
+STRING file://example.jpg
+STRING ;history -c; exit;
+ENTER
