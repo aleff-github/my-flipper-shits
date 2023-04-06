@@ -38,10 +38,10 @@
 |Linux|Exfiltration|[Exfiltrate Linux Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateDocumentsFolder_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-content-with-dropbox)|
 |Linux|Exfiltration|[Exfiltrate Linux Logs](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateLogFiles_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-log-files)|
 |Linux|Exfiltration|[Exfiltrate Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-network-configuration)|
-|Linux|Phising|[Exfiltrate Email And Password By Phising](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateEmailAndPasswordByPhising_Linux)|🟡|❌ Not yet|
-|Linux|Phising|[Exfiltrate Sudo Password By Phishing](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateSudoPasswordByPhising_Linux)|🟡|❌ Not yet|
-|Linux|Phising|[Exfiltrate WiFi Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateWiFiPasswords_Linux)|🟡|❌ Not yet|
-|Linux|Phising|[Exfiltrate Photos Through Shell](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltratePhotosThroughShell)|🟡|❌ Not yet|
+|Linux|Exfiltration|[Exfiltrate Email And Password By Phising](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateEmailAndPasswordByPhising_Linux)|🟡|❌ Not yet|
+|Linux|Exfiltration|[Exfiltrate Sudo Password By Phishing](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateSudoPasswordByPhising_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-sudo-password-by-phishing)|
+|Linux|Exfiltration|[Exfiltrate WiFi Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateWiFiPasswords_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-wifi-passwords)|
+|Linux|Exfiltration|[Exfiltrate Photos Through Shell](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltratePhotosThroughShell)|🟡|❌ Not yet|
 |Linux|Phising|[Standard Phishing Attack](https://github.com/aleff-github/my-flipper-shits/tree/main/StandardPhishingAttack_Linux)|🟡|❌ Not yet|
 |Linux|Phising|[Standard Phishing Payload Using kdialog](https://github.com/aleff-github/my-flipper-shits/tree/main/StandardPhishingPayloadUsingKdialog_Linux)|🟡|❌ Not yet|
 |Linux|Execution|[Exploiting An Executable File](https://github.com/aleff-github/my-flipper-shits/tree/main/ExploitingAnExecutableFile)|🟢|❌ Not yet|
