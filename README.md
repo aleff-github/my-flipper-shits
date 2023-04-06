@@ -5,6 +5,7 @@
 * [Disclaimer](#disclaimer)
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
 * [Payloads](#payloads)
+* [Stats](#stats)
 * [Videos](#videos)
 * [Credits](#credits)
 
@@ -54,6 +55,21 @@
 |Windows|Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|🟢|❌ Not yet|
 |Linux|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendTelegramMessages_Linux)|🟡|❌ Not yet|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌ Not yet|
+
+
+## Stats
+|Type|Count|
+|--|--|
+|Linux|17|
+|Windows|7|
+|MacOS|0 -> [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
+|Else|1|
+|Credentials|1|
+|Exfiltration|12|
+|Phising|2|
+|Execution|5|
+|Prank|5|
+|Hak5|9|
 
 
 ## Videos
