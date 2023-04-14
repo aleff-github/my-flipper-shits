@@ -56,6 +56,7 @@
 |Windows|Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|🟢|❌ Not yet|
 |Linux|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendTelegramMessages_Linux)|🟡|❌ Not yet|
 |Windows|Prank|[Alien Message From Computer](https://github.com/aleff-github/my-flipper-shits/tree/main/AlienMessageFromComputer)|🟢|❌ Not yet|
+|Windows|Prank|[Continuous Print In Terminal](https://github.com/aleff-github/my-flipper-shits/tree/main/ContinuousPrintInTerminal)|🟢|❌ Not yet|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
 
@@ -64,14 +65,14 @@
 |Type|Count|
 |--|--|
 |Linux|17|
-|Windows|8|
+|Windows|9|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |Else|1|
 |Credentials|1|
 |Exfiltration|12|
 |Phising|2|
 |Execution|5|
-|Prank|6|
+|Prank|7|
 |Hak5|9|
 
 
