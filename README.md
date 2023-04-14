@@ -89,4 +89,6 @@
 
 ## Donations
 
-<iframe src="https://github.com/sponsors/aleff-github/card" title="Sponsor aleff-github" height="225" width="600" style="border: 0;"/>
+- [GitHub Sponsor](https://github.com/sponsors/aleff-github)
+- [PayPal](paypal.me/aleg599)
+- BTC: 38cCkZtCxGBqny4xvDKbtUbe1d88psVNU5
