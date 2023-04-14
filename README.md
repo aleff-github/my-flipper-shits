@@ -55,7 +55,8 @@
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
 |Windows|Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|🟢|❌ Not yet|
 |Linux|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendTelegramMessages_Linux)|🟡|❌ Not yet|
-|//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌ Not yet|
+|Windows|Prank|[Alien Message From Computer](https://github.com/aleff-github/my-flipper-shits/tree/main/AlienMessageFromComputer)|🟢|❌ Not yet|
+|//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
 
 ## Stats
@@ -63,14 +64,14 @@
 |Type|Count|
 |--|--|
 |Linux|17|
-|Windows|7|
+|Windows|8|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |Else|1|
 |Credentials|1|
 |Exfiltration|12|
 |Phising|2|
 |Execution|5|
-|Prank|5|
+|Prank|6|
 |Hak5|9|
 
 
