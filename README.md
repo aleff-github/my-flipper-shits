@@ -62,6 +62,7 @@
 |Windows|Prank|[Alien Message From Computer](https://github.com/aleff-github/my-flipper-shits/tree/main/AlienMessageFromComputer)|🟢|❌ Not yet|
 |Windows|Prank|[Continuous Print In Terminal](https://github.com/aleff-github/my-flipper-shits/tree/main/ContinuousPrintInTerminal)|🟢|❌ Not yet|
 |Windows|Prank|[Change Wallpaper With Screenshot](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeWallpaperWithScreenshot)|🟡|❌ Not yet|
+|Windows|Prank|[Play A Song Through Spotify](https://github.com/aleff-github/my-flipper-shits/tree/main/PlayASongThroughSpotify)|🟢|❌ Not yet|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
 
@@ -70,14 +71,14 @@
 |Type|Count|
 |--|--|
 |Linux|17|
-|Windows|12|
+|Windows|13|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
 |Execution|5|
-|Prank|9|
+|Prank|10|
 |Hak5|9|
 
 
