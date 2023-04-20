@@ -2,11 +2,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits)
 
+
 * [Disclaimer](#disclaimer)
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
 * [Payloads](#payloads)
 * [Stats](#stats)
 * [Videos](#videos)
+* [FAQs](#faqs)
 * [Credits](#credits)
 * [Donations](#donations)
 
@@ -35,6 +37,7 @@
 |Windows|Exfiltration|[Exfiltrate Process Info - Windows](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateProcessInfo_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-process-info)|
 |Windows|Exfiltration|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/ProtonVPNConfigFile_Windows)|🟡|❌ Not yet|
 |Windows|Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/Netstat_Windows)|🔴|❌ Not yet|
+|Windows|Exfiltration|[Exfiltrate Computer Screenshots](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateComputerScreenshots)|🟡|❌ Not yet|
 |Linux|Exfiltration|[Exfiltrate Process Info](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateProcessInfo_Linux)|🟡|❌ Not yet|
 |Linux|Exfiltration|[Exfiltrate Network Traffic](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateNetworkTraffic_Linux)|🟡|❌ Not yet|
 |Linux|Exfiltration|[Exfiltrate Linux Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateDocumentsFolder_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-content-with-dropbox)|
@@ -66,14 +69,14 @@
 |Type|Count|
 |--|--|
 |Linux|17|
-|Windows|9|
+|Windows|11|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |Else|1|
 |Credentials|1|
-|Exfiltration|12|
+|Exfiltration|13|
 |Phising|2|
 |Execution|5|
-|Prank|7|
+|Prank|8|
 |Hak5|9|
 
 
@@ -83,6 +86,15 @@
 |--|--|
 |[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|https://youtube.com/shorts/fbXgI-4ABhU|
 |[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|https://youtube.com/shorts/XRY_MEYQUxA|
+
+
+## FAQs
+
+- **DEFINE** doesn't work!
+    - DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place
+- **REM** error
+    - If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.
+
 
 
 ## Credits
