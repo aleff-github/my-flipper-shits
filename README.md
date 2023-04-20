@@ -73,6 +73,7 @@
 |Linux|17|
 |Windows|13|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
+|**Tot**|29|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
