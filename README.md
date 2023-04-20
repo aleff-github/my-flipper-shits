@@ -53,6 +53,7 @@
 |Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-network-configuration)|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
+|Windows|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendMessagesInTeams)|🟡|❌ Not yet|
 |Windows|Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|🟢|❌ Not yet|
 |Linux|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendTelegramMessages_Linux)|🟡|❌ Not yet|
 |Windows|Prank|[Alien Message From Computer](https://github.com/aleff-github/my-flipper-shits/tree/main/AlienMessageFromComputer)|🟢|❌ Not yet|
