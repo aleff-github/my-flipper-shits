@@ -63,6 +63,9 @@
 |Windows|Prank|[Continuous Print In Terminal](https://github.com/aleff-github/my-flipper-shits/tree/main/ContinuousPrintInTerminal)|🟢|❌ Not yet|
 |Windows|Prank|[Change Wallpaper With Screenshot](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeWallpaperWithScreenshot)|🟡|❌ Not yet|
 |Windows|Prank|[Play A Song Through Spotify](https://github.com/aleff-github/my-flipper-shits/tree/main/PlayASongThroughSpotify)|🟢|❌ Not yet|
+|Windows|Prank|[Full-Screen Banner Joke](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-ScreenBannerJoke)|🟢|❌ Not yet|
+|Windows|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|❌ Not yet|
+|Linux|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|❌ Not yet|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
 
@@ -70,16 +73,16 @@
 
 |Type|Count|
 |--|--|
-|Linux|17|
-|Windows|13|
+|Linux|18|
+|Windows|15|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|29|
+|**Tot**|32|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
 |Execution|5|
-|Prank|10|
+|Prank|12|
 |Hak5|9|
 
 
