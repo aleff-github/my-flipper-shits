@@ -55,6 +55,7 @@
 |Windows|Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|🟢|❌ Not yet|
 |Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-network-configuration)|
 |Windows|Execution|[Uninstall Signal](https://github.com/aleff-github/my-flipper-shits/tree/main/UninstallSignal)|🟢|❌ Not yet|
+|Windows/Linux|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|❌ Not yet|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
 |Windows|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendMessagesInTeams)|🟡|❌ Not yet|
@@ -65,8 +66,7 @@
 |Windows|Prank|[Change Wallpaper With Screenshot](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeWallpaperWithScreenshot)|🟡|❌ Not yet|
 |Windows|Prank|[Play A Song Through Spotify](https://github.com/aleff-github/my-flipper-shits/tree/main/PlayASongThroughSpotify)|🟢|❌ Not yet|
 |Windows|Prank|[Full-Screen Banner Joke](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-ScreenBannerJoke)|🟢|❌ Not yet|
-|Windows|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|❌ Not yet|
-|Linux|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|❌ Not yet|
+|Windows/Linux|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|❌ Not yet|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
 
@@ -74,15 +74,15 @@
 
 |Type|Count|
 |--|--|
-|Linux|18|
-|Windows|16|
+|Linux|19|
+|Windows|17|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|32|
+|**Tot**|36|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
-|Execution|6|
+|Execution|7|
 |Prank|12|
 |Hak5|9|
 
@@ -101,7 +101,6 @@
     - DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place
 - **REM** errors
     - If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.
-
 
 
 ## Credits
