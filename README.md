@@ -54,6 +54,7 @@
 |Linux|Execution|[Set Arbitrary VPN](https://github.com/aleff-github/my-flipper-shits/tree/main/SetArbitraryVPN_Linux)|🟡|❌ Not yet|
 |Windows|Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|🟢|❌ Not yet|
 |Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-network-configuration)|
+|Windows|Execution|[Uninstall Signal](https://github.com/aleff-github/my-flipper-shits/tree/main/UninstallSignal)|🟢|❌ Not yet|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
 |Windows|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendMessagesInTeams)|🟡|❌ Not yet|
@@ -74,14 +75,14 @@
 |Type|Count|
 |--|--|
 |Linux|18|
-|Windows|15|
+|Windows|16|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |**Tot**|32|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
-|Execution|5|
+|Execution|6|
 |Prank|12|
 |Hak5|9|
 
@@ -98,7 +99,7 @@
 
 - **DEFINE** doesn't work!
     - DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place
-- **REM** error
+- **REM** errors
     - If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.
 
 
