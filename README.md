@@ -55,6 +55,7 @@
 |Windows|Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|🟢|❌ Not yet|
 |Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-network-configuration)|
 |Windows|Execution|[Uninstall Signal](https://github.com/aleff-github/my-flipper-shits/tree/main/UninstallSignal)|🟢|❌ Not yet|
+|Windows|Execution|[Set An Arbitrary DNS - IPv4 version](https://github.com/aleff-github/my-flipper-shits/tree/main/Set_An_Arbitrary_DNS-IPv4_version)|🟢|❌ Not yet|
 |Windows/Linux|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|❌ Not yet|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
@@ -75,14 +76,14 @@
 |Type|Count|
 |--|--|
 |Linux|19|
-|Windows|17|
+|Windows|18|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |**Tot**|36|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
-|Execution|7|
+|Execution|8|
 |Prank|12|
 |Hak5|9|
 
