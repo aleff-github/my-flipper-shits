@@ -106,7 +106,7 @@
 
 ## Credits
 
-- [Aleff](https://www.autistici.org/aleff)
+- [Aleff](https://aleff-github.github.io/)
 
 
 ## Donations
