@@ -54,6 +54,7 @@
 |Linux|Execution|[Set Arbitrary VPN](https://github.com/aleff-github/my-flipper-shits/tree/main/SetArbitraryVPN_Linux)|🟡|❌ Not yet|
 |Windows|Execution|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|🟢|❌ Not yet|
 |Linux|Execution|[Change Network Configuration](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeNetworkConfiguration_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-network-configuration)|
+|Linux|Execution|[Edit The Default Real App With An Arbitrary](https://github.com/aleff-github/my-flipper-shits/tree/main/Edit_The_Default_Real_App_With_An_Arbitrary)|🟡|❌ Not yet|
 |Windows|Execution|[Uninstall Signal](https://github.com/aleff-github/my-flipper-shits/tree/main/UninstallSignal)|🟢|❌ Not yet|
 |Windows|Execution|[Set An Arbitrary DNS - IPv4 version](https://github.com/aleff-github/my-flipper-shits/tree/main/Set_An_Arbitrary_DNS-IPv4_version)|🟢|❌ Not yet|
 |Windows|Execution|[Add An Excepiton To Avast Antivirus](https://github.com/aleff-github/my-flipper-shits/tree/main/Add_An_Excepiton_To_Avast_Antivirus)|🟢|❌ Not yet|
@@ -63,6 +64,7 @@
 |Windows|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendMessagesInTeams)|🟡|❌ Not yet|
 |Windows|Prank|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|🟢|❌ Not yet|
 |Linux|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendTelegramMessages_Linux)|🟡|❌ Not yet|
+|Linux|Prank|[Change The App That Will Be Runned](https://github.com/aleff-github/my-flipper-shits/tree/main/Change_The_App_That_Will_Be_Runned)|🟡|❌ Not yet|
 |Windows|Prank|[Alien Message From Computer](https://github.com/aleff-github/my-flipper-shits/tree/main/AlienMessageFromComputer)|🟢|❌ Not yet|
 |Windows|Prank|[Continuous Print In Terminal](https://github.com/aleff-github/my-flipper-shits/tree/main/ContinuousPrintInTerminal)|🟢|❌ Not yet|
 |Windows|Prank|[Change Wallpaper With Screenshot](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeWallpaperWithScreenshot)|🟡|❌ Not yet|
@@ -76,7 +78,7 @@
 
 |Type|Count|
 |--|--|
-|Linux|19|
+|Linux|21|
 |Windows|19|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
 |**Tot**|36|
@@ -84,8 +86,8 @@
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
-|Execution|9|
-|Prank|12|
+|Execution|10|
+|Prank|13|
 |Hak5|9|
 
 
