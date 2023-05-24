@@ -4,6 +4,12 @@ A script used to prank your friends with full-screen banner.
 
 **Category**: Prank
 
+<div align=center>
+
+<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+
+</div>
+
 ## Description
 
 A script used to prank your friends with full-screen banner.
