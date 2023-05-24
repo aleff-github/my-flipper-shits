@@ -72,6 +72,7 @@
 |Windows|Prank|[Change Wallpaper With Screenshot](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeWallpaperWithScreenshot)|🟡|❌ Not yet|
 |Windows|Prank|[Play A Song Through Spotify](https://github.com/aleff-github/my-flipper-shits/tree/main/PlayASongThroughSpotify)|🟢|❌ Not yet|
 |Windows|Prank|[Full-Screen Banner Joke](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-ScreenBannerJoke)|🟢|❌ Not yet|
+|Windows|Prank|[The Mouse Moves By Itself](https://github.com/aleff-github/my-flipper-shits/tree/main/The_Mouse_Moves_By_Itself)|🟡|❌ Not yet|
 |Windows/Linux|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|❌ Not yet|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
@@ -81,15 +82,15 @@
 |Type|Count|
 |--|--|
 |Linux|21|
-|Windows|21|
+|Windows|22|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|42|
+|**Tot**|43|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
 |Execution|12|
-|Prank|13|
+|Prank|14|
 |Hak5|9|
 
 
