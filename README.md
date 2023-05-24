@@ -58,6 +58,7 @@
 |Windows|Execution|[Uninstall Signal](https://github.com/aleff-github/my-flipper-shits/tree/main/UninstallSignal)|🟢|❌ Not yet|
 |Windows|Execution|[Set An Arbitrary DNS - IPv4 version](https://github.com/aleff-github/my-flipper-shits/tree/main/Set_An_Arbitrary_DNS-IPv4_version)|🟢|❌ Not yet|
 |Windows|Execution|[Add An Excepiton To Avast Antivirus](https://github.com/aleff-github/my-flipper-shits/tree/main/Add_An_Excepiton_To_Avast_Antivirus)|🟢|❌ Not yet|
+|Windows|Execution|[Make Windows performant (but ugly and boring)](https://github.com/aleff-github/my-flipper-shits/tree/main/Make_Windows_performant_(but_ugly_and_boring))|🟢|❌ Not yet|
 |Windows/Linux|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|❌ Not yet|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
@@ -74,19 +75,20 @@
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
 
+
 ## Stats
 
 |Type|Count|
 |--|--|
 |Linux|21|
-|Windows|19|
+|Windows|20|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|40|
+|**Tot**|41|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
 |Phising|2|
-|Execution|10|
+|Execution|11|
 |Prank|13|
 |Hak5|9|
 
