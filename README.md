@@ -60,6 +60,8 @@
 |Windows|Execution|[Add An Excepiton To Avast Antivirus](https://github.com/aleff-github/my-flipper-shits/tree/main/Add_An_Excepiton_To_Avast_Antivirus)|🟢|❌ Not yet|
 |Windows|Execution|[Make Windows performant (but ugly and boring)](https://github.com/aleff-github/my-flipper-shits/tree/main/Make_Windows_performant_(but_ugly_and_boring))|🟢|❌ Not yet|
 |Windows|Execution|[Change Windows User Name](https://github.com/aleff-github/my-flipper-shits/tree/main/Change_Windows_User_Name)|🟡|❌ Not yet|
+|Windows|Execution|[Starting a PowerShell with administrator permissions in Windows](https://github.com/aleff-github/my-flipper-shits/tree/main/Starting_a_PowerShell_with_administrator_permissions_in_Windows)|🟢|❌ Not yet|
+|Windows|Execution|[Change the password of the Windows user](https://github.com/aleff-github/my-flipper-shits/tree/main/Change_the_password_of_the_windows_user)|🟡|❌ Not yet|
 |Windows/Linux|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|❌ Not yet|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|❌ Not yet|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
@@ -82,9 +84,9 @@
 |Type|Count|
 |--|--|
 |Linux|21|
-|Windows|22|
+|Windows|24|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|43|
+|**Tot**|45|
 |Else|1|
 |Credentials|1|
 |Exfiltration|13|
