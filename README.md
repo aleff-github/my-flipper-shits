@@ -83,6 +83,7 @@
 |Windows|Prank|[Play A Song Through Spotify](https://github.com/aleff-github/my-flipper-shits/tree/main/PlayASongThroughSpotify)|🟢|❌ Not yet|
 |Windows|Prank|[Full-Screen Banner Joke](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-ScreenBannerJoke)|🟢|[✅ Click here](https://hak5.org/blogs/payloads/full-screen-banner-joke)|
 |Windows|Prank|[The Mouse Moves By Itself](https://github.com/aleff-github/my-flipper-shits/tree/main/The_Mouse_Moves_By_Itself)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/the-mouse-moves-by-itself)|
+|Windows|Prank|[Try To Catch Me](https://github.com/aleff-github/my-flipper-shits/tree/main/Try_To_Catch_Me)|🟡|❌ Not yet|
 |Windows/Linux|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|[✅ Click here](https://hak5.org/blogs/payloads/send-email-through-thunderbird)|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|❌❌❌|
 
@@ -92,15 +93,15 @@
 |Type|Count|
 |--|--|
 |Linux|21|
-|Windows|32|
+|Windows|33|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|53|
+|**Tot**|54|
 |Else|1|
 |Credentials|1|
 |Exfiltration|19|
 |Phising|2|
 |Execution|17|
-|Prank|14|
+|Prank|15|
 |Hak5|38|
 
 
