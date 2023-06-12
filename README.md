@@ -40,6 +40,10 @@
 |Windows|Exfiltration|[Exfiltrate Computer Screenshots](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateComputerScreenshots)|🟡|❌ Not yet|
 |Windows|Exfiltration|[Export Cookies From Firefox](https://github.com/aleff-github/my-flipper-shits/tree/main/Export_Cookies_From_Firefox)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/export-firefox-cookies-database)|
 |Windows|Exfiltration|[Exports all the links of the downloads](https://github.com/aleff-github/my-flipper-shits/tree/main/Exports_all_the_links_of_the_downloads)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exports-all-the-links-of-the-downloads)|
+|Windows|Exfiltration|[Tree structure of the operating system](https://github.com/aleff-github/my-flipper-shits/tree/main/Tree_structure_of_the_operating_system)|🟡|❌ Not yet|
+|Windows|Exfiltration|[Export all saved certificates with Adobe Reader](https://github.com/aleff-github/my-flipper-shits/tree/main/Export_all_saved_certificates_with_Adobe_Reader)|🟡|❌ Not yet|
+|Windows|Exfiltration|[Exfiltrates the entire database of the Notion client](https://github.com/aleff-github/my-flipper-shits/tree/main/Exfiltrates_the_entire_database_of_the_Notion_client)|🟡|❌ Not yet|
+|Windows|Exfiltration|[Create And Exfiltrate A Webhook Of Discord](https://github.com/aleff-github/my-flipper-shits/tree/main/Create_And_Exfiltrate_A_Webhook_Of_Discord)|🟡|❌ Not yet|
 |Linux|Exfiltration|[Exfiltrate Process Info - Linux](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateProcessInfo_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-process-info-linux)|
 |Linux|Exfiltration|[Exfiltrate Network Traffic](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateNetworkTraffic_Linux)|🟡|❌ Not yet|
 |Linux|Exfiltration|[Exfiltrate Linux Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/ExfiltrateDocumentsFolder_Linux)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/exfiltrate-linux-content-with-dropbox)|
@@ -65,6 +69,7 @@
 |Windows|Execution|[Starting a PowerShell with administrator permissions in Windows](https://github.com/aleff-github/my-flipper-shits/tree/main/Starting_a_PowerShell_with_administrator_permissions_in_Windows)|🟢|[✅ Click here](https://hak5.org/blogs/payloads/starting-a-powershell-with-administrator-permissions-in-windows-10-11)|
 |Windows|Execution|[Change the password of the Windows user](https://github.com/aleff-github/my-flipper-shits/tree/main/Change_the_password_of_the_windows_user)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-the-password-of-the-windows-user)|
 |Windows|Execution|[Stop A Single Process In Windows](https://github.com/aleff-github/my-flipper-shits/tree/main/Stop_A_Single_Process_In_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/stop-a-single-process-in-windows)|
+|Windows|Execution|[Uninstall A Specific App On Windows Through Control Panel](https://github.com/aleff-github/my-flipper-shits/tree/main/Uninstall_A_Specific_App_On_Windows_Through_Control_Panel)|🟡|❌ Not yet|
 |Windows/Linux|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-remote-git-link)|
 |Linux/KDE|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/change-desktop-wallpaper)|
 |Windows|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|[✅ Click here](https://hak5.org/blogs/payloads/send-signal-messages)|
@@ -87,14 +92,14 @@
 |Type|Count|
 |--|--|
 |Linux|21|
-|Windows|27|
+|Windows|32|
 |MacOS|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|48|
+|**Tot**|53|
 |Else|1|
 |Credentials|1|
-|Exfiltration|15|
+|Exfiltration|19|
 |Phising|2|
-|Execution|16|
+|Execution|17|
 |Prank|14|
 |Hak5|38|
 
