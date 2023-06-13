@@ -4,6 +4,12 @@ This payload can be used to prank friends by sending emails at top speed from th
 
 **Category**: Execution
 
+<div align=center>
+
+<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+
+</div>
+
 ## Description
 
 This payload can be used to prank friends by sending emails at top speed from their thunderbird clients.
