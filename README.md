@@ -84,6 +84,7 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeGitRemoteLink)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Send Messages In Discord Channel-Server](https://github.com/aleff-github/my-flipper-shits/tree/main/Send_Messages_In_Discord_Channel-Server)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Install And Run Any Arbitrary Executable - No Internet And Root Needed](https://github.com/aleff-github/my-flipper-shits/tree/main/Install_And_Run_Any_Arbitrary_Executable-No_Internet_And_Root_Needed)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**KDE**|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/ChangeDesktopWallpaper_LinuxKDE)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendSignalMessages_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/SendMessagesInTeams)|🟡|
@@ -97,8 +98,9 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Full-Screen Banner Joke](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-ScreenBannerJoke)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[The Mouse Moves By Itself](https://github.com/aleff-github/my-flipper-shits/tree/main/The_Mouse_Moves_By_Itself)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Try To Catch Me](https://github.com/aleff-github/my-flipper-shits/tree/main/Try_To_Catch_Me)|🟡|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Follow Someone On Instagram](https://github.com/aleff-github/my-flipper-shits/tree/main/Follow_Someone_On_Instagram)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Pranh(ex)](https://github.com/aleff-github/my-flipper-shits/tree/main/Pranh(ex))|🟢|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Full-SendEmailThroughThunderbird)|🟢|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
