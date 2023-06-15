@@ -37,10 +37,10 @@
 
 |Type|Count|
 |--|--|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|21|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|37|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|22|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|38|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|59|
+|**Tot**|60|
 |Hak5|41|
 
 

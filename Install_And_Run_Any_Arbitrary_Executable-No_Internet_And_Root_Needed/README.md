@@ -2,6 +2,8 @@
 
 Through this guide you will be able to create executable programs that can be installed via DuckyScript in such a way as to avoid using the Internet altogether. This type of installation can lead to serious damage to machines so do it only if you are fully aware and sure of what you are doing, in this example you will already find the code in hexadecimal but if you want to be sure recompile the executable following the following guide.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits)
+
 **Category**: Execution
 
 <div align=center>

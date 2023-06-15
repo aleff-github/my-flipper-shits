@@ -2,6 +2,8 @@
 
 This script is named Prenh(ex) because it is the union between **Prank**, the payload section of Hak5, and hex which represents the heart of the payload itself since it is installed following a conversion to **hexadecimal**. This script also contains a Time-Based **Easter Egg** so if you want to enjoy the joke don't read the code and wait a few seconds. ^^
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits)
+
 **Category**: Prank
 
 ![](assets/1.gif)

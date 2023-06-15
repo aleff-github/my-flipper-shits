@@ -2,6 +2,8 @@
 
 This script allows the exfiltration of the structure of the files contained in a machine, through the use of the tree command in fact it is possible to know all the various links between files, folders and subfolders in a quick and graphically easy to understand way.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits)
+
 **Category**: Exfiltration
 
 <div align=center>
