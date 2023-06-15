@@ -21,7 +21,7 @@
 
 <div align=center>
 
-<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+<img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/DISCLAIMER.png" width="600" />
 
 </div>
 
