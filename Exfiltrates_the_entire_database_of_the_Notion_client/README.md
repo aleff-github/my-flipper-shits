@@ -51,7 +51,7 @@ Open a PowerShell, the get dinamically the Notion full-path and then add the `no
       <a href="https://www.linkedin.com/in/alessandro-greco-aka-aleff/">
         <img src=https://github.com/aleff-github/aleff-github/blob/main/img/linkedin.png?raw=true width="48" height="48" />
       </a>
-      <br>Discord
+      <br>Linkedin
     </td>
   </tr>
 </table>
