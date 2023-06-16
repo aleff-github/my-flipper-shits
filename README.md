@@ -1,11 +1,6 @@
 # My Flipper Shits
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits)
-
-[![GitHub Sponsor](https://img.shields.io/github/sponsors/aleff-github?label=Sponsor&logo=GitHub&style=for-the-badge)](https://github.com/sponsors/aleff-github)
-
-[![Licence](https://img.shields.io/badge/Licence-GNU3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
-
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits) [![GitHub Sponsor](https://img.shields.io/github/sponsors/aleff-github?label=Sponsor&logo=GitHub&style=for-the-badge)](https://github.com/sponsors/aleff-github) [![Licence](https://img.shields.io/badge/Licence-GNU3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
 
 * [Disclaimer](#disclaimer)
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
@@ -127,8 +122,31 @@
 
 ## Credits
 
-- [Aleff](https://aleff-github.github.io/)
-
+<h2 align="center"> Aleff :octocat: </h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/aleff-github">
+        <img src=https://github.com/aleff-github/aleff-github/blob/main/img/github.png?raw=true width="48" height="48" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.instagram.com/alessandro_greco_aka_aleff/">
+        <img src=https://github.com/aleff-github/aleff-github/blob/main/img/instagram.png?raw=true width="48" height="48" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/alessandro-greco-aka-aleff/">
+        <img src=https://github.com/aleff-github/aleff-github/blob/main/img/linkedin.png?raw=true width="48" height="48" />
+      </a>
+      <br>Discord
+    </td>
+  </tr>
+</table>
+</div>
 
 ## Donations
 
