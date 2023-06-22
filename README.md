@@ -99,8 +99,8 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Try To Catch Me](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Try_To_Catch_Me)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Follow Someone On Instagram](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Follow_Someone_On_Instagram)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Pranh(ex)](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Pranh(ex))|🟢|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Full-SendEmailThroughThunderbird)|🟢|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Full-SendEmailThroughThunderbird)|🟢|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/SendEmailThroughThunderbird)|🟢|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/SendEmailThroughThunderbird)|🟢|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
