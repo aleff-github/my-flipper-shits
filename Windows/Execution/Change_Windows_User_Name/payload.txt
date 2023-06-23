@@ -1,0 +1,33 @@
+REM #############################################
+REM #                                           |
+REM # Title        : Change Windows User Name   |
+REM # Author       : Aleff                      |
+REM # Version      : 1.1                        |
+REM # Category     : Execution                  |
+REM # Target       : Windows 10/11              |
+REM #                                           |
+REM #############################################
+
+REM Requirements:
+REM     - Nothing
+
+REM Note:
+REM     - Payload tested on Windows 11 Eng 
+
+REM Set the new name that you want to set
+DEFINE NEW_NAME example
+
+DELAY 2000
+GUI R
+DELAY 200
+STRING explorer shell:::{60632754-c523-4b62-b45c-4172da012619}\pageRenameMyAccount
+DELAY 200
+ENTER
+DELAY 1000
+STRING NEW_NAME
+DELAY 200
+TAB
+DELAY 200
+ENTER
+DELAY 1000
+ALT F4
