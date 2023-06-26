@@ -4,7 +4,6 @@
 
 * [Disclaimer](#disclaimer)
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
-* [Stats](#stats)
 * [Payloads](#payloads)
 * [Videos](#videos)
 * [FAQs](#faqs)
@@ -26,17 +25,6 @@
 - 🟢 Totally - You must do nothing
 - 🟡 Partial - Just something like a Dropbox Token or Discord Webhook...
 - 🔴 Manual effort request
-
-
-## Stats
-
-|Type|Count|
-|--|--|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|22|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|38|
-|![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|60|
-|Hak5|41|
 
 
 ## Payloads
@@ -80,6 +68,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Follow Someone On Instagram](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Follow_Someone_On_Instagram)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Pranh(ex)](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Pranh(ex))|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendEmailThroughThunderbird)|🟢|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Change Github Profile Settings](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Change_Github_Profile_Settings)|🟡|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
