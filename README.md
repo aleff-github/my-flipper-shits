@@ -33,9 +33,9 @@
 |Type|Count|
 |--|--|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|22|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|39|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|40|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|61|
+|**Tot**|62|
 |Hak5|41|
 
 
@@ -44,6 +44,7 @@
 |System|Category|Name|PAP|
 |--|--|--|--|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[WiFi Windows Passwords](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Credentials/WiFiPasswords_Windows)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[Defend Yourself From CVE-2023-23397](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Credentials/Defend_yourself_from_CVE-2023-23397)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltration|[Exfiltrate Process Info - Windows](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Exfiltration/ExfiltrateProcessInfo_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltration|[ProtonVPN config](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Exfiltration/ProtonVPNConfigFile_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltration|[Windows netstat](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Exfiltration/Netstat_Windows)|🔴|
