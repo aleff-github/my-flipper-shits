@@ -103,6 +103,8 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendEmailThroughThunderbird)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/SendEmailThroughThunderbird)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Change Github Profile Settings](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Change_Github_Profile_Settings)|🟡|
+|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Play A Song With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Play_A_Song_With_An_iPhone)|🟡|
+|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Call Someone With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Call_Someone_With_An_iPhone)|🟡|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
