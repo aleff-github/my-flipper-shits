@@ -34,8 +34,9 @@
 |--|--|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|22|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|40|
+|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|3|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|62|
+|**Tot**|65|
 |Hak5|41|
 
 
@@ -105,6 +106,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Change Github Profile Settings](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Change_Github_Profile_Settings)|🟡|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Play A Song With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Play_A_Song_With_An_iPhone)|🟡|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Call Someone With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Call_Someone_With_An_iPhone)|🟡|
+|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Edit A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Edit_A_Reminder_With_An_iPhone)|🟡|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
