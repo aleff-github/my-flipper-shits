@@ -70,6 +70,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Pranh(ex)](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Pranh(ex))|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendEmailThroughThunderbird)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Change Github Profile Settings](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Change_Github_Profile_Settings)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Incident Response|[Defend yourself against CVE-2023-36884 Office and Windows HTML Remote Code Execution Vulnerability](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/incident_response/Defend_yourself_against_CVE-2023-36884_Office_and_Windows_HTML_Remote_Code_Execution_Vulnerability)|🟢|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
