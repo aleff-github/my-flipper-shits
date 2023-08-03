@@ -32,11 +32,11 @@
 
 |Type|Count|
 |--|--|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|22|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|25|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|40|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|66|
+|**Tot**|69|
 |Hak5|41|
 
 
@@ -82,6 +82,9 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change the password of the Windows user](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Change_the_password_of_the_windows_user)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Stop A Single Process In Windows](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Stop_A_Single_Process_In_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Uninstall A Specific App On Windows Through Control Panel](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Uninstall_A_Specific_App_On_Windows_Through_Control_Panel)|🟡|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Persistent Reverse Shell - Telegram Based](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Persistent_Reverse_Shell-Telegram_Based)|🟡|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Telegram Persistent Connection Linux](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Telegram_Persistent_Connection_Linux)|🟡|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Persistent Keylogger - Telegram Based](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Persistent_Keylogger-Telegram_Based)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/ChangeGitRemoteLink)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/ChangeGitRemoteLink)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Send Messages In Discord Channel-Server](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Send_Messages_In_Discord_Channel-Server)|🟡|
