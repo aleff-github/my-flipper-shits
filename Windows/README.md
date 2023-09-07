@@ -74,22 +74,6 @@
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
-## Videos
-
-|Name|Link|
-|--|--|
-|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|https://youtube.com/shorts/fbXgI-4ABhU|
-|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|https://youtube.com/shorts/XRY_MEYQUxA|
-
-
-## FAQs
-
-- **DEFINE** doesn't work!
-    - DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place
-- **REM** errors
-    - If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.
-
-
 ## Credits
 
 <h2 align="center"> Aleff :octocat: </h2>

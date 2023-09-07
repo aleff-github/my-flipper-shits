@@ -32,11 +32,11 @@
 
 |Type|Count|
 |--|--|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|25|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|26|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|40|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|69|
+|**Tot**|70|
 |Hak5|41|
 
 
@@ -89,6 +89,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change Git Remote Link](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/ChangeGitRemoteLink)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Send Messages In Discord Channel-Server](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Send_Messages_In_Discord_Channel-Server)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Install And Run Any Arbitrary Executable - No Internet And Root Needed](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Install_And_Run_Any_Arbitrary_Executable-No_Internet_And_Root_Needed)|🟡|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Defend yourself against AtlasVPN bugdoor](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Defend_yourself_against_AtlasVPN_bugdoor)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**KDE**|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/ChangeDesktopWallpaper_LinuxKDE)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendSignalMessages_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendMessagesInTeams)|🟡|

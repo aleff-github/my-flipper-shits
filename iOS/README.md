@@ -37,36 +37,6 @@
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Delete A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Delete_A_Reminder_With_An_iPhone)|🟡|
 
 
-## Videos
-
-|Name|Link|
-|--|--|
-|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|https://youtube.com/shorts/fbXgI-4ABhU|
-|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|https://youtube.com/shorts/XRY_MEYQUxA|
-
-
-## FAQs
-
-<details>
-<ul>
-    <li><strong>DEFINE</strong> doesn't work!
-        <ul>
-            <li>DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place</li>
-        </ul>
-    </li>
-    <li><strong>REM</strong> errors
-        <ul>
-            <li>If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.</li>
-        </ul>
-    </li>
-    <li><strong>bit.ly</strong> link broken - 404 problems
-        <ul>
-            <li><a href="https://github.com/aleff-github/my-flipper-shits/issues/3">Solution</a> In the Rick Roll video prank it's calling for a bit.ly and seems to go to a github 404 page</li>
-        </ul>
-    </li>
-</ul>
-</details>
-
 ## Credits
 
 <h2 align="center"> Aleff :octocat: </h2>

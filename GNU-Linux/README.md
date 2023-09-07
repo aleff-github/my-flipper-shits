@@ -51,27 +51,12 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Persistent Reverse Shell - Telegram Based](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Persistent_Reverse_Shell-Telegram_Based)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Telegram Persistent Connection Linux](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Telegram_Persistent_Connection_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Persistent Keylogger - Telegram Based](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Persistent_Keylogger-Telegram_Based)|🟡|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Defend yourself against AtlasVPN bugdoor](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Defend_yourself_against_AtlasVPN_bugdoor)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**KDE**|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/ChangeDesktopWallpaper_LinuxKDE)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/SendTelegramMessages_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Change The App That Will Be Runned](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/Change_The_App_That_Will_Be_Runned)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/SendEmailThroughThunderbird)|🟢|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
-
-
-## Videos
-
-|Name|Link|
-|--|--|
-|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|https://youtube.com/shorts/fbXgI-4ABhU|
-|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|https://youtube.com/shorts/XRY_MEYQUxA|
-
-
-## FAQs
-
-- **DEFINE** doesn't work!
-    - DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place
-- **REM** errors
-    - If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.
 
 
 ## Credits
