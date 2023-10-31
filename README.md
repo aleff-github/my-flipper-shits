@@ -138,9 +138,14 @@
             <li>If you have an error on a REM line make sure it is not a blank line. In any case, REMs are comments and can be deleted so try deleting the line that gives you an error to see if it fixes the problem.</li>
         </ul>
     </li>
-    <li><strong>bit.ly</strong> link broken - 404 problems
+    <li>In the Rick Roll video prank it's calling for a bit.ly and seems to go to a github 404 page
         <ul>
-            <li><a href="https://github.com/aleff-github/my-flipper-shits/issues/3">Solution</a> In the Rick Roll video prank it's calling for a bit.ly and seems to go to a github 404 page</li>
+            <li><a href="https://github.com/aleff-github/my-flipper-shits/issues/3">Solution</a> - <strong>bit.ly</strong> link broken - 404 problems</li>
+        </ul>
+    </li>
+    <li>I dont understand how to put a .py link in a .txt can you help me please?
+        <ul>
+            <li><a href="https://github.com/aleff-github/my-flipper-shits/issues/6">Solution</a> - How to insert a link to an external resource and why?</li>
         </ul>
     </li>
 </ul>
