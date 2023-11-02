@@ -130,7 +130,7 @@
 <ul>
     <li><strong>DEFINE</strong> doesn't work!
         <ul>
-            <li>DEFINEs in FlipperZero probably don't work, if they give you an error just remove them by directly entering what you want in the appropriate place</li>
+            <li>DEFINEs in FlipperZero probably doesn't work, if they give you an error just remove them by directly entering what you want in the appropriate place</li>
         </ul>
     </li>
     <li><strong>REM</strong> errors
