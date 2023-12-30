@@ -1,0 +1,63 @@
+REM ################################################################
+REM #                                                              |
+REM # Title        : Set An Arbitrary And Persistent Tor Circuit   |
+REM # Author       : Aleff                                         |
+REM # Version      : 1.0                                           |
+REM # Category     : Execution                                     |
+REM # Target       : Windows 10/11;                                |
+REM #                                                              |
+REM ################################################################
+
+REM Requirements:
+REM - Tor installed
+REM - Fingerprints of your relays
+
+REM Note:
+REM  - Payload tested using TorBrowser 13.0.8 based on Mozilla Firefoz 115.6.0esr ENG
+REM  - Payload tested on Windows 11_eng;
+
+REM Set the Fingerprints here
+DEFINE #EntryNode example
+DEFINE #MiddleNode example
+DEFINE #ExitNode example
+
+REM Do not change the variables that begin with 'const', they are constants that allow the nodes to be configured correctly.
+DEFINE #const_entry_node EntryNodes
+DEFINE #const_middle_node MiddleNodes
+DEFINE #const_exit_node ExitNodes
+
+DELAY 2000
+REM Open the TorBrowser path
+GUI
+DELAY 500
+STRINGLN tor browser
+RIGHTARROW
+DOWNARROW
+DOWNARROW
+ENTER
+SHIFT F10
+DELAY 500
+DOWNARROW
+DOWNARROW
+ENTER
+REM Search and open the torrc config file
+CTRL f
+DELAY 500
+STRING torrc
+DELAY 1500
+DOWNARROW
+SPACE
+ENTER
+TAB
+ENTER
+REM Delete all the previous data with the arbotrary nodes
+CTRL a
+DELETE
+STRINGLN
+    #const_entry_node #EntryNode
+    #const_middle_node #MiddleNode
+    #const_exit_node #ExitNode
+END_STRINGLN
+CTRL s
+ALT F4
+ALT F4

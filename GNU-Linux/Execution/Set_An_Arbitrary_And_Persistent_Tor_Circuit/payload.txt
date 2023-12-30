@@ -1,0 +1,53 @@
+REM ################################################################
+REM #                                                              |
+REM # Title        : Set An Arbitrary And Persistent Tor Circuit   |
+REM # Author       : Aleff                                         |
+REM # Version      : 1.0                                           |
+REM # Category     : Execution                                     |
+REM # Target       : Linux                                         |
+REM #                                                              |
+REM ################################################################
+
+REM Requirements:
+REM - Tor installed
+REM - Fingerprints of your relays
+
+REM Note:
+REM  - Payload tested using TorBrowser 13.0.8 based on Mozilla Firefoz 115.6.0esr ENG
+REM  - Payload tested on Debian 12_eng; Ubuntu 23.10_eng;
+
+REM Set the Fingerprints here
+DEFINE #EntryNode example
+DEFINE #MiddleNode example
+DEFINE #ExitNode example
+
+REM Activation of administrator permissions may vary from system to system.
+REM For example, for Debian it is necessary to use 'su' while for other systems such as Ubuntu it is necessary to use 'sudo su'.
+REM In general this can vary and is information that could be crucial in case the target has tampered with this functionality.
+DEFINE #root_permission_command sudo su
+
+REM Edit this field only if you plan to use this script on Linux operating systems as you need administrator permissions and therefore you need to know the password.
+DEFINE #sudo_pass example
+
+REM Do not change the variables that begin with 'const', they are constants that allow the nodes to be configured correctly.
+DEFINE #const_entry_node EntryNodes
+DEFINE #const_middle_node MiddleNodes
+DEFINE #const_exit_node ExitNodes
+
+DELAY 2000
+REM Opens a new terminal and login with administrator permissions.
+CTRL-ALT t
+STRINGLN #root_permission_command
+DELAY 500
+STRING #sudo_pass
+DELAY 1000
+REM Writes the new configuration into the torrc file deleting all the previous settings.
+STRINGLN
+    echo "#const_entry_node #EntryNode
+    #const_middle_node #MiddleNode
+    #const_exit_node #ExitNode" > /etc/tor/torrc
+END_STRINGLN
+REM Then exit from the super user and close the terminal
+DELAY 500
+STRINGLN exit
+ALT F4
