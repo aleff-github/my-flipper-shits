@@ -32,11 +32,11 @@
 
 |Type|Count|
 |--|--|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|26|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|40|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|27|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|41|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|70|
+|**Tot**|72|
 |Hak5|41|
 
 
@@ -67,6 +67,8 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Exfiltration|[Exfiltrate Photos Through Shell](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Exfiltration/ExfiltratePhotosThroughShell)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Phising|[Standard Phishing Attack](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Phising/StandardPhishingAttack_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Phising|[Standard Phishing Payload Using kdialog](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Phising/StandardPhishingPayloadUsingKdialog_Linux)|🟡|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Set An Arbitrary And Persistent Tor Circuit](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Set_An_Arbitrary_And_Persistent_Tor_Circuit)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Set An Arbitrary And Persistent Tor Circuit](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Set_An_Arbitrary_And_Persistent_Tor_Circuit)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Exploiting An Executable File](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/ExploitingAnExecutableFile)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Change MAC Address](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/ChangeMacAddress_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Set Arbitrary VPN](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/SetArbitraryVPN_Linux)|🟡|
