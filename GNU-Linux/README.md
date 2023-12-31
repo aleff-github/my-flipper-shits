@@ -31,6 +31,7 @@
 
 |System|Category|Name|PAP|
 |--|--|--|--|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Auto-Check Cisco IOS XE Backdoor based on CVE-2023-20198 and CVE-2023-20273](Incident_Response/Auto-Check_Cisco_IOS_XE_Backdoor_based_on_CVE-2023-20198_and_CVE)|🔴|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Exfiltration|[Exfiltrate Process Info - Linux](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Exfiltration/ExfiltrateProcessInfo_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Exfiltration|[Exfiltrate Network Traffic](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Exfiltration/ExfiltrateNetworkTraffic_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Exfiltration|[Exfiltrate Linux Documents](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Exfiltration/ExfiltrateDocumentsFolder_Linux)|🟡|
