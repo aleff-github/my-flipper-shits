@@ -12,6 +12,12 @@ Introducing the "Set Tor Bridge in Windows" payload a DuckyScript payload design
 
 **Category**: Execution
 
+<div align=center>
+
+<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+
+</div>
+
 ## Index
 
 - [Set Tor Bridge in Windows](#set-tor-bridge-in-windows)

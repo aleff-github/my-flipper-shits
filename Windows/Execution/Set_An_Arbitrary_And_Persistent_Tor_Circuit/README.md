@@ -17,6 +17,12 @@ It is essential to emphasize that the use of this script must comply with local 
 
 _**Note**: The nodes are unmodifiable unless the initial Tor settings are restored or unless the torrc file is subsequently modified by removing the configurations made._
 
+<div align=center>
+
+<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+
+</div>
+
 ## Index
 
 - [Set An Arbitrary And Persistent Tor Circuit](#set-an-arbitrary-and-static-tor-circuit)
