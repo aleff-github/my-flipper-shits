@@ -179,9 +179,3 @@
   </tr>
 </table>
 </div>
-
-## Donations
-
-- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/aleff-github)
-- [GitHub Sponsor](https://github.com/sponsors/aleff-github)
-- BTC: 38cCkZtCxGBqny4xvDKbtUbe1d88psVNU5
