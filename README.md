@@ -123,14 +123,6 @@
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
-## Videos
-
-|Name|Link|
-|--|--|
-|[Close All Applications](https://github.com/aleff-github/my-flipper-shits/tree/main/CloseAllApplications_Windows)|https://youtube.com/shorts/fbXgI-4ABhU|
-|[Never Gonna Give You Up](https://github.com/aleff-github/my-flipper-shits/tree/main/NeverGonnaGiveYouUp_Windows)|https://youtube.com/shorts/XRY_MEYQUxA|
-
-
 ## FAQs
 
 <details>
