@@ -58,9 +58,9 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**KDE**|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/ChangeDesktopWallpaper_LinuxKDE)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Telegram Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/SendTelegramMessages_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Change The App That Will Be Runned](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/Change_The_App_That_Will_Be_Runned)|🟡|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/SendEmailThroughThunderbird)|🟢|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Kali Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/This_damn_shell_doesn_t_work___so_sad!-KALI)|🟢|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/This_damn_shell_doesn_t_work___so_sad!-LINUX)|🟢|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Send Email Through Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/SendEmailThroughThunderbird)|🟢|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Kali Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-KALI)|🟢|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-LINUX)|🟢|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
 
