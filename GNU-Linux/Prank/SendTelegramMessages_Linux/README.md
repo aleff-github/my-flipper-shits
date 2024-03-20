@@ -1,4 +1,4 @@
-# Send Telegram Messages - Linux ✅
+# Send Telegram Messages - Linux
 
 A script used to prank your friends sending messages by using Telegram app.
 

