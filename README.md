@@ -6,10 +6,9 @@
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
 * [Stats](#stats)
 * [Payloads](#payloads)
-* [Videos](#videos)
 * [FAQs](#faqs)
+* [Some Boring Considerations](#some-boring-considerations)
 * [Credits](#credits)
-* [Donations](#donations)
 
 
 ## Disclaimer
@@ -127,7 +126,6 @@
 
 ## FAQs
 
-<details>
 <ul>
     <li><strong>DEFINE</strong> doesn't work!
         <ul>
@@ -150,7 +148,35 @@
         </ul>
     </li>
 </ul>
-</details>
+
+## Some Boring Considerations
+
+This is my pay after over 1 year and 3 months of work.
+
+![](https://media.licdn.com/dms/image/D4D22AQFJ5l79t0B8Dw/feedshare-shrink_1280/0/1712950001561?e=1715817600&v=beta&t=QNDa7gWQb6dakvYLkGHWXAwSfo1cTeyN0eCpLkkeVFE)
+
+On January 4, 2023, after treating myself to the Flipper Zero for Christmas, I began publishing scripts in DuckyScript on the GitHub repository 'my-flipper-shits'.
+
+I've always considered it normal and right to publish the source code I developed because I find it absurd to cover it with a copyright license, and for this reason, I decided to make it available under the copyleft GPLv3 license.
+
+After a few months, I started to see that some people were staring the repository, then the first forks appeared, and finally, I decided to tidy it up a bit and make it more usable with a much nicer README.md.
+
+Someone wrote to me on Discord, others sent me an email, but whenever they reported problems, I always tried to help them, not always succeeding, but always trying. So I added FAQs to the homepage.
+
+After:
+- 80 payloads uploaded for GNU/Linux, Windows, and iOS.
+- Over 252,000 views.
+- 771 Stars
+- 55 Forks
+- 19 watching
+
+… this is the first completely spontaneous 'thank you' (without providing assistance) I've received in over 1 year of activity.
+
+Activity open to anyone and making everything I did available under GPLv3, all without ever asking for a single euro. For free. My intention with these publications is to disseminate, within the limits of my knowledge, as much as I can to anyone without making any distinctions, so that knowledge can be freely and librement available to anyone.
+
+And it is precisely for this reason that I consider this spontaneous thanks from a completely unknown person my pay.
+
+Developing libre source code is important, and I hope this message is clear.
 
 ## Credits
 
