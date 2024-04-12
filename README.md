@@ -1,6 +1,6 @@
 # My Flipper Shits
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits) [![GitHub Sponsor](https://img.shields.io/github/sponsors/aleff-github?label=Sponsor&logo=GitHub&style=for-the-badge)](https://github.com/sponsors/aleff-github) [![Licence](https://img.shields.io/badge/Licence-GPLv3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits) [![Licence](https://img.shields.io/badge/Licence-GPLv3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
 
 * [Disclaimer](#disclaimer)
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
