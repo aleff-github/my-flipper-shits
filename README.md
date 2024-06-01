@@ -153,7 +153,7 @@
 
 This is my pay after over 1 year and 3 months of work.
 
-![](https://media.licdn.com/dms/image/D4D22AQFJ5l79t0B8Dw/feedshare-shrink_1280/0/1712950001561?e=1715817600&v=beta&t=QNDa7gWQb6dakvYLkGHWXAwSfo1cTeyN0eCpLkkeVFE)
+![](https://i.ibb.co/h2g16g3/1712950001561.jpg)
 
 On January 4, 2023, after treating myself to the Flipper Zero for Christmas, I began publishing scripts in DuckyScript on the GitHub repository 'my-flipper-shits'.
 
