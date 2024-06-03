@@ -1,4 +1,6 @@
 # My Flipper Shits
+
+<link rel="icon" href="https://github.com/aleff-github/my-flipper-shits/raw/main/img/gif/flipper_zero%20(15).gif" type="image/gif" >
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits) [![Licence](https://img.shields.io/badge/Licence-GPLv3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
 
