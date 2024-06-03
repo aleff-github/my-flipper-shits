@@ -31,12 +31,13 @@
 
 |Type|Count|
 |--|--|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|29|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|44|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|30|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|45|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 [Buy me a Mac](https://github.com/sponsors/aleff-github?frequency=one-time&sponsor=aleff-github) :-)|
-|**Tot**|77|
-|Hak5|41|
+|**Tot**|79|
+|Hak5 Payload accepted|111|
+|Hak5 Payload Awarded|2|
 
 
 ## Payloads
@@ -117,6 +118,7 @@
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Delete A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Delete_A_Reminder_With_An_iPhone)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Kali Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-KALI)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-LINUX)|🟢|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Prank In The Middle - Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Prank_In_The_Middle_Thunderbird)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Auto-Check Cisco IOS XE Backdoor based on CVE-2023-20198 and CVE-2023-20273](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Incident_Response/Auto-Check_Cisco_IOS_XE_Backdoor_based_on_CVE-2023-20198_and_CVE)|🔴|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Exploit Citrix NetScaler ADC and Gateway through CVE-2023-4966](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Incident_Response/Exploit_Citrix_NetScaler_ADC_and_Gateway_through_CVE-2023-4966)|🔴|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Indicent Response|[Exploit Citrix NetScaler ADC and Gateway through CVE-2023-4966](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Incident_Response/Exploit_Citrix_NetScaler_ADC_and_Gateway_through_CVE-2023-4966)|🔴|
