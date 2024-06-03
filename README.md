@@ -183,21 +183,19 @@ Developing libre source code is important, and I hope this message is clear.
 
 ## Credits
 
-<h2 align="center"> Aleff</h2>
 <div align=center>
+<h2> Aleff</h2>
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://github.com/aleff-github">
-        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" />
-      </a>
-      <br>Github
+      <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" onclick="window.open('https://github.com/aleff-github')"/>
+      <br>
+      <p>Github</p>
     </td>
     <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/alessandro-greco-aka-aleff/">
-        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png width="48" height="48" />
-      </a>
-      <br>Linkedin
+      <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png width="48" height="48" onclick="window.open('https://www.linkedin.com/in/alessandro-greco-aka-aleff/')"/>
+      <br>
+      <p>LinkedIn</p>
     </td>
   </tr>
 </table>
