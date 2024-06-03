@@ -119,8 +119,8 @@
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Call Someone With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Call_Someone_With_An_iPhone)|🟡|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Edit A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Edit_A_Reminder_With_An_iPhone)|🟡|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Delete A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Delete_A_Reminder_With_An_iPhone)|🟡|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Kali Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-KALI)|🟢|
-|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[(Linux) This_damn_shell_doesn_t_work___so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-LINUX)|🟢|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Kali Linux - This_damn_shell_doesn_t_work... so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-KALI)|🟢|
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Linux - This_damn_shell_doesn_t_work... so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-LINUX)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Prank In The Middle - Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Prank_In_The_Middle_Thunderbird)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Auto-Check Cisco IOS XE Backdoor based on CVE-2023-20198 and CVE-2023-20273](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Incident_Response/Auto-Check_Cisco_IOS_XE_Backdoor_based_on_CVE-2023-20198_and_CVE)|🔴|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Exploit Citrix NetScaler ADC and Gateway through CVE-2023-4966](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Incident_Response/Exploit_Citrix_NetScaler_ADC_and_Gateway_through_CVE-2023-4966)|🔴|
@@ -190,12 +190,12 @@ Developing libre source code is important, and I hope this message is clear.
 <table>
   <tr>
     <td align="center" width="96">
-      <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" onclick="window.open('https://github.com/aleff-github')"/>
+      <img src="https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png" width="48" height="48" onclick="window.open('https://github.com/aleff-github')"/>
       <br>
       <p>Github</p>
     </td>
     <td align="center" width="96">
-      <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png width="48" height="48" onclick="window.open('https://www.linkedin.com/in/alessandro-greco-aka-aleff/')"/>
+      <img src="https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png" width="48" height="48" onclick="window.open('https://www.linkedin.com/in/alessandro-greco-aka-aleff/')"/>
       <br>
       <p>LinkedIn</p>
     </td>
