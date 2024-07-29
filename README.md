@@ -152,6 +152,11 @@
             <li><a href="https://github.com/aleff-github/my-flipper-shits/issues/6">Solution</a> - How to insert a link to an external resource and why?</li>
         </ul>
     </li>
+    <li>Why you should absolutely not use permanent links maintained by others.
+        <ul>
+            <li><a href="https://github.com/aleff-github/my-flipper-shits/pull/14">Read the discussion</a> born from a Pull Request</li>
+        </ul>
+    </li>
 </ul>
 
 ## Some Boring Considerations
