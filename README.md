@@ -206,4 +206,12 @@ Developing libre source code is important, and I hope this message is clear.
     </td>
   </tr>
 </table>
+    <ul>
+        <li>
+            GitHub: https://github.com/aleff-github
+        </li>
+        <li>
+            Linkedin: https://www.linkedin.com/in/alessandro-greco-aka-aleff/
+        </li>
+    </ul>
 </div>
