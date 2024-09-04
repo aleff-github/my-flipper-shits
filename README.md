@@ -12,6 +12,13 @@
 * [Some Boring Considerations](#some-boring-considerations)
 * [Credits](#credits)
 
+## ↳ Stargazers
+
+[![Stargazers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/stars/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/stargazers)
+
+## ↳ Forkers
+
+[![Forkers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/forks/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/network/members)
 
 ## Disclaimer
 
