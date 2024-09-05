@@ -41,11 +41,11 @@
 |Type|Count|
 |--|--|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|30|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|46|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|47|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 (*Buy me a Mac ^^*)|
-|**Tot**|80|
-|**Hak5** Payload accepted|111|
+|**Tot**|81|
+|**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
 
@@ -78,6 +78,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltration|[Save Your Thunderbird Settings](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Exfiltration/Save_Your_Thunderbird_Settings)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Phising|[Standard Phishing Attack](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Phising/StandardPhishingAttack_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Phising|[Standard Phishing Payload Using kdialog](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Phising/StandardPhishingPayloadUsingKdialog_Linux)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Install Any Arbitrary VSCode Extension](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Install_Any_Arbitrary_VSCode_Extension)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Set An Arbitrary And Persistent Tor Circuit](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Set_An_Arbitrary_And_Persistent_Tor_Circuit)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Set An Arbitrary And Persistent Tor Circuit](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Set_An_Arbitrary_And_Persistent_Tor_Circuit)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Set Tor Bridge](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Set_Tor_Bridge)|🟡|
@@ -135,7 +136,6 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Incident Response|[Defend yourself against CVE-2023-36884 Office and Windows HTML Remote Code Execution Vulnerability](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Incident_Response/Defend_yourself_against_CVE-2023-36884_Office_and_Windows_HTML_Remote_Code_Execution_Vulnerability)|🟢|
 |//|Prank|[Flipper Zero GIF](img/gif)|🟢|
 
-
 ## FAQs
 
 <ul>
@@ -165,6 +165,22 @@
         </ul>
     </li>
 </ul>
+
+## Where They Talk About This Repository
+
+- [CVE Feed](https://cvefeed.io/vuln/detail/CVE-2023-20273)
+- [CSDN(Chinese Software Developer Network)/Full Article (Special Thanks!)](https://blog.csdn.net/gitblog_00086/article/details/139082132)
+- [CSDN in-List](https://blog.csdn.net/gitblog_00085/article/details/141084245)
+- [Infosec Writeups](https://infosecwriteups.com/the-ultimate-guide-cheatsheet-to-flipper-zero-d4c42d79d32c)
+- [SOS-Intelligence](https://sosintel.co.uk/flipper-zero-an-introduction-to-its-capabilities-and-potential-risks/)
+- [Intelligence](https://sosintel.co.uk/category/opinion/)
+- [Achirou](https://achirou.com/guia-de-flipper-zero-hacking-con-badusb/)
+- [Awesome Open Source - The Top 23 Flipperzero Open Source Projects](https://awesomeopensource.com/projects/flipperzero)
+- [Decryptology](https://dev.decryptology.net/GitHub/awesome-flipperzero#badusb)
+- [Gitters/Hak5](https://giters.com/topics/hak5)
+- [Christan Workshop](https://christanworkshop.com/flipperzero)
+- [Twitter/HAHWUL](https://x.com/hahwul/status/1829076650681872619)
+- [Popdocs](https://flipper.popdocs.net/applications/duckyscript)
 
 ## Some Boring Considerations
 

