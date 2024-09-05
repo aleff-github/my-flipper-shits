@@ -41,10 +41,10 @@
 |Type|Count|
 |--|--|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|30|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|47|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|48|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 (*Buy me a Mac ^^*)|
-|**Tot**|81|
+|**Tot**|82|
 |**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
@@ -78,6 +78,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltration|[Save Your Thunderbird Settings](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Exfiltration/Save_Your_Thunderbird_Settings)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Phising|[Standard Phishing Attack](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Phising/StandardPhishingAttack_Linux)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Phising|[Standard Phishing Payload Using kdialog](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Phising/StandardPhishingPayloadUsingKdialog_Linux)|🟡|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Install Official VSCode Extension](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Install_Official_VSCode_Extension)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Install Any Arbitrary VSCode Extension](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Install_Any_Arbitrary_VSCode_Extension)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Set An Arbitrary And Persistent Tor Circuit](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Set_An_Arbitrary_And_Persistent_Tor_Circuit)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Set An Arbitrary And Persistent Tor Circuit](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Set_An_Arbitrary_And_Persistent_Tor_Circuit)|🟡|

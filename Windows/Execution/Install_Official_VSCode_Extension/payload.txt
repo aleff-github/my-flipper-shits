@@ -1,0 +1,25 @@
+REM #####################################################
+REM #                                                   #
+REM # Title        : Install Official VSCode Extension  #
+REM # Author       : Aleff                              #
+REM # Version      : 1.0                                #
+REM # Category     : Execution                          #
+REM # Target       : Windows 10/11                      #
+REM #                                                   #
+REM #####################################################
+
+DELAY 2000
+GUI r
+DELAY 1000
+STRING PowerShell
+ENTER
+DELAY 1000
+
+STRING code --install-extension 
+
+REM By default the DuckyScript Cookbook extension will be installed but if you want to change it just enter publisher.extensionName instead of Aleff.duckyscriptcookbook
+STRING Aleff.duckyscriptcookbook
+
+REM Erase Traces
+STRING; Remove-Item (Get-PSReadlineOption).HistorySavePath; exit
+ENTER
