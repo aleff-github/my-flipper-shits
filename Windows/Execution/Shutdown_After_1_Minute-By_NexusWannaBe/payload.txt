@@ -1,4 +1,5 @@
-REM Developer: NexusWannaBe
+REM Title:      Shutdown After 1 Minute
+REM Developer:  NexusWannaBe
 
 DELAY 1000
 GUI r
