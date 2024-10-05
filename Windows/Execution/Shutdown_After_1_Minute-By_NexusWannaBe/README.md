@@ -1,6 +1,6 @@
 # Shutdown After 1 Minute - By NexusWannaBe
 
-This DuckyScript, created by NexusWannaBe, is designed to force a Windows system shutdown after one minute from the insertion of your Flipper Zero or any compatible DuckyScript device. The script opens the **cmd** terminal and sends the shutdown command to the system.
+This DuckyScript, created by [NexusWannaBe](https://github.com/NexusWannaBe), is designed to force a Windows system shutdown after one minute from the insertion of your Flipper Zero or any compatible DuckyScript device. The script opens the **cmd** terminal and sends the shutdown command to the system.
 
 ## How it works
 
