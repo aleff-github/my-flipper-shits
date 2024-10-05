@@ -1,6 +1,6 @@
 # Immediate Shutdown - By NexusWannaBe
 
-This DuckyScript, created by NexusWannaBe, is designed to **immediately shut down** a Windows system upon inserting a Rubber Ducky or any compatible DuckyScript device. The script opens the **cmd** terminal and issues a shutdown command with no delay, causing the system to shut down immediately.
+This DuckyScript, created by [NexusWannaBe](https://github.com/NexusWannaBe), is designed to **immediately shut down** a Windows system upon inserting a Rubber Ducky or any compatible DuckyScript device. The script opens the **cmd** terminal and issues a shutdown command with no delay, causing the system to shut down immediately.
 
 ## How it works
 
