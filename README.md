@@ -7,6 +7,7 @@
 * [Disclaimer](#disclaimer)
 * [PlugAndPlay (PAP) Legend](#plugandplay-pap-legend)
 * [Stats](#stats)
+* [Top Payload Contributors](#top-payload-contributors)
 * [Payloads](#payloads)
 * [FAQs](#faqs)
 * [Some Boring Considerations](#some-boring-considerations)
@@ -48,6 +49,15 @@
 |**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
+## Top Payload Contributors
+
+Contribute to the repository by publishing your payloads to climb the rankings
+
+|Rank|Contributor|Payloads Published|
+|----|-----------|------------------|
+|🥇 1st|**[NexusWannaBe](https://github.com/NexusWannaBe)**|2|
+|🥈 2nd|**[bst04](https://github.com/brunoooost)**|1|
+|🥉 3rd| **[*maybe you...*](https://github.com/settings/profile)**|0|
 
 ## Payloads
 
