@@ -43,8 +43,8 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|30|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|50|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
-|![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|0 (*Buy me a Mac ^^*)|
-|**Tot**|84|
+|![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|1|
+|**Tot**|85|
 |**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
@@ -108,6 +108,7 @@
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Defend yourself against AtlasVPN bugdoor](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Execution/Defend_yourself_against_AtlasVPN_bugdoor)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Shutdown After 1 Minute - By NexusWannaBe](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Shutdown_After_1_Minute-By_NexusWannaBe)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Immediate Shutdown - By NexusWannaBe](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Immediate_Shutdown-By_NexusWannaBe)|🟢|
+|![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)|Execution|[IPLogger - Discord Webhook - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/MacOS/Execution/IPLogger-Discord_Webhook-by_bst04)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**KDE**|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/ChangeDesktopWallpaper_LinuxKDE)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendSignalMessages_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendMessagesInTeams)|🟡|

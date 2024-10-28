@@ -1,4 +1,4 @@
-# My Flipper Shits - iOS
+# My Flipper Shits - MacOS
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits) [![GitHub Sponsor](https://img.shields.io/github/sponsors/aleff-github?label=Sponsor&logo=GitHub&style=for-the-badge)](https://github.com/sponsors/aleff-github) [![Licence](https://img.shields.io/badge/Licence-GPLv3-%239e264c?style=for-the-badge)](https://github.com/aleff-github/my-flipper-shits/blob/main/LICENCE)
 
@@ -31,11 +31,7 @@
 
 |System|Category|Name|PAP|
 |--|--|--|--|
-|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Play A Song With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Play_A_Song_With_An_iPhone)|🟡|
-|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Call Someone With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Call_Someone_With_An_iPhone)|🟡|
-|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Edit A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Edit_A_Reminder_With_An_iPhone)|🟡|
-|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Delete A Reminder With An iPhone](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Prank/Delete_A_Reminder_With_An_iPhone)|🟡|
-
+|![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)|Execution|[IPLogger - Discord Webhook - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/MacOS/Execution/IPLogger-Discord_Webhook-by_bst04)|🟡|
 
 ## Credits
 
