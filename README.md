@@ -13,14 +13,6 @@
 * [Some Boring Considerations](#some-boring-considerations)
 * [Credits](#credits)
 
-## ↳ Stargazers
-
-[![Stargazers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/stars/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/stargazers)
-
-## ↳ Forkers
-
-[![Forkers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/forks/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/network/members)
-
 ## Disclaimer
 
 <div align=center>
@@ -46,6 +38,7 @@
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|1|
 |**Tot**|85|
+|**Community** contributions|3|
 |**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
@@ -58,6 +51,10 @@ Contribute to the repository by publishing your payloads to climb the rankings
 |🥇 1st|**[NexusWannaBe](https://github.com/NexusWannaBe)**|2|
 |🥈 2nd|**[bst04](https://github.com/brunoooost)**|1|
 |🥉 3rd| **[*maybe you...*](https://github.com/settings/profile)**|0|
+
+[![Stargazers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/stars/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/stargazers)
+
+[![Forkers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/forks/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/network/members)
 
 ## Payloads
 
