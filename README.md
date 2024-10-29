@@ -35,10 +35,10 @@
 |--|--|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|30|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|51|
-|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
+|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|5|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|1|
-|**Tot**|86|
-|**Community** contributions|4|
+|**Tot**|87|
+|**Community** contributions|5|
 |**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
@@ -48,8 +48,8 @@ Contribute to the repository by publishing your payloads to climb the rankings
 
 |Rank|Contributor|Payloads Published|
 |----|-----------|------------------|
-|🥇 1st|**[NexusWannaBe](https://github.com/NexusWannaBe)**|2|
-|🥈 2nd|**[bst04](https://github.com/brunoooost)**|2|
+|🥇 1st|**[bst04](https://github.com/brunoooost)**|3|
+|🥈 2nd|**[NexusWannaBe](https://github.com/NexusWannaBe)**|2|
 |🥉 3rd| **[*maybe you...*](https://github.com/settings/profile)**|0|
 
 ## Payloads
@@ -112,6 +112,7 @@ Contribute to the repository by publishing your payloads to climb the rankings
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Shutdown After 1 Minute - By NexusWannaBe](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Shutdown_After_1_Minute-By_NexusWannaBe)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Immediate Shutdown - By NexusWannaBe](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Execution/Immediate_Shutdown-By_NexusWannaBe)|🟢|
 |![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)|Execution|[IPLogger - Discord Webhook - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/MacOS/Execution/IPLogger-Discord_Webhook-by_bst04)|🟡|
+|![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[Text Someone Message With iPhone - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/iOS/Execution/Text_Someone_Message_With_iPhone-by_bst04)|🟡|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**KDE**|Prank|[Change Desktop Wallpaper](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/ChangeDesktopWallpaper_LinuxKDE)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Signal Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendSignalMessages_Windows)|🟡|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Send Microsoft Teams Messages](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/SendMessagesInTeams)|🟡|
