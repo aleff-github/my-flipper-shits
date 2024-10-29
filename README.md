@@ -34,11 +34,11 @@
 |Type|Count|
 |--|--|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|30|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|50|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|51|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|4|
 |![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|1|
-|**Tot**|85|
-|**Community** contributions|3|
+|**Tot**|86|
+|**Community** contributions|4|
 |**Hak5** Payload accepted|115|
 |**Hak5** Payload Awarded|2|
 
@@ -49,7 +49,7 @@ Contribute to the repository by publishing your payloads to climb the rankings
 |Rank|Contributor|Payloads Published|
 |----|-----------|------------------|
 |🥇 1st|**[NexusWannaBe](https://github.com/NexusWannaBe)**|2|
-|🥈 2nd|**[bst04](https://github.com/brunoooost)**|1|
+|🥈 2nd|**[bst04](https://github.com/brunoooost)**|2|
 |🥉 3rd| **[*maybe you...*](https://github.com/settings/profile)**|0|
 
 [![Stargazers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/stars/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/stargazers)
@@ -141,6 +141,7 @@ Contribute to the repository by publishing your payloads to climb the rankings
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Kali Linux - This_damn_shell_doesn_t_work... so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-KALI)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Prank|[Linux - This_damn_shell_doesn_t_work... so_sad!](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Prank/This_damn_shell_doesn_t_work___so_sad!-LINUX)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Prank In The Middle - Thunderbird](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Prank_In_The_Middle_Thunderbird)|🟢|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Spam Terminals - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Prank/Spam_Terminals-by_bst04)|🟢|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Auto-Check Cisco IOS XE Backdoor based on CVE-2023-20198 and CVE-2023-20273](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Incident_Response/Auto-Check_Cisco_IOS_XE_Backdoor_based_on_CVE-2023-20198_and_CVE)|🔴|
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Indicent Response|[Exploit Citrix NetScaler ADC and Gateway through CVE-2023-4966](https://github.com/aleff-github/my-flipper-shits/tree/main/GNU-Linux/Incident_Response/Exploit_Citrix_NetScaler_ADC_and_Gateway_through_CVE-2023-4966)|🔴|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Indicent Response|[Exploit Citrix NetScaler ADC and Gateway through CVE-2023-4966](https://github.com/aleff-github/my-flipper-shits/tree/main/Windows/Incident_Response/Exploit_Citrix_NetScaler_ADC_and_Gateway_through_CVE-2023-4966)|🔴|
