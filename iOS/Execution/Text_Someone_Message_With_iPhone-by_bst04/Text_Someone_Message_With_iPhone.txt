@@ -1,0 +1,30 @@
+REM ==================================
+REM iOS - devices
+REM made by **bst04**
+REM change [person] and [text]
+REM ==================================
+
+DELAY 1500
+GUI h
+DELAY 150
+GUI SPACE
+DELAY 150
+BACKSPACE
+DELAY 500
+STRING Messages
+DELAY 250
+ENTER
+DELAY 1500
+GUI n
+DELAY 250
+STRING [person]
+DELAY 500
+ENTER
+DELAY 250
+TAB
+ENTER
+DOWNARROW
+DELAY 500
+STRING [text]
+DELAY 500
+ENTER
