@@ -52,10 +52,6 @@ Contribute to the repository by publishing your payloads to climb the rankings
 |🥈 2nd|**[bst04](https://github.com/brunoooost)**|2|
 |🥉 3rd| **[*maybe you...*](https://github.com/settings/profile)**|0|
 
-[![Stargazers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/stars/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/stargazers)
-
-[![Forkers repo roster for @aleff-github/my-flipper-shits](https://reporoster.com/forks/aleff-github/my-flipper-shits)](https://github.com/aleff-github/my-flipper-shits/network/members)
-
 ## Payloads
 
 |System|Category|Name|PAP|
