@@ -4,6 +4,7 @@ REM made by **bst04**
 REM change [person] and [text]
 REM ==================================
 
+DELAY 1500
 GUI h
 DELAY 150
 GUI SPACE
@@ -22,7 +23,7 @@ ENTER
 DELAY 250
 TAB
 ENTER
-DOWN ARROW
+DOWNARROW
 DELAY 500
 STRING [text]
 DELAY 500
