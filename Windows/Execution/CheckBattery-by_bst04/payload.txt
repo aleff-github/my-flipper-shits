@@ -1,0 +1,17 @@
+REM =======================================
+REM payload by bst04
+REM For Windows Devices
+REM =======================================
+
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell powercfg /batteryreport
+DELAY 750
+ENTER
+DELAY 250
+GUI r 
+DELAY 850
+STRING powershell Start-Process "battery-report.html"
+DELAY 750
+ENTER
