@@ -1,0 +1,12 @@
+REM ===========================
+REM payload by bst04
+REM ===========================
+
+DELAY 1000
+GUI SPACE
+DELAY 250
+STRING VOL=$(osascript -e 'Set Volume 100')
+DELAY 250
+ENTER
+DELAY 250
+GUI q
