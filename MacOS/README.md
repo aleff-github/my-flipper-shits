@@ -32,6 +32,7 @@
 |System|Category|Name|PAP|
 |--|--|--|--|
 |![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)|Execution|[IPLogger - Discord Webhook - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/MacOS/Execution/IPLogger-Discord_Webhook-by_bst04)|🟡|
+|![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)|Execution|[Set Volume Max - MacOS - by bst04](https://github.com/aleff-github/my-flipper-shits/tree/main/MacOS/Execution/SetVolumeMax-MacOS)|🟢|
 
 ## Credits
 

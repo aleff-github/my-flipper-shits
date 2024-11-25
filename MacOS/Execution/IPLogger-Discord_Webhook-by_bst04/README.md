@@ -6,8 +6,6 @@
 
 </div>
 
-## Description
-
 This script, created by bst04, is designed to work on macOS systems. It opens Terminal, fetches the public IP address of the device, and sends it to a Discord webhook using `curl`.
 
 ---
