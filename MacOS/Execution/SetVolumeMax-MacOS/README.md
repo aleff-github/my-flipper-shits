@@ -1,6 +1,10 @@
 # 🔊 SetVolumeMax-FlipZero by bst04
 
-## ℹ️ Description
+<div align=center>
+
+<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+
+</div>
 
 This payload, created by bst04, is designed to set the volume to maximum (100%) on a macOS device using AppleScript through Terminal.
 
