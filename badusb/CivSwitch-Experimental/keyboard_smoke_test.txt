@@ -1,0 +1,9 @@
+REM Harmless test: open a blank text editor on your OWN computer, then resume.
+REM Set US English keyboard layout in Flipper. Do NOT run in a terminal or console.
+DEFAULT_STRING_DELAY 40
+WAIT_FOR_BUTTON_PRESS
+STRING #%!()+,-.:;=>?@[]^_{|}~
+ENTER
+STRING 1/2"></div><img src=x onerror="p=window.p||[],p[0]=`abc`"><div class="
+ENTER
+REM End of layout test
