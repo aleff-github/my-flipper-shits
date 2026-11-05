@@ -1,0 +1,30 @@
+REM EXPERIMENTAL: CivSwitch manual-assisted keyboard transport for Flipper Zero
+REM NOT A CONFIRMED SWITCH/SWITCH 2 JAILBREAK. DOES NOT EMULATE GAMEPAD A.
+REM Follow README: at EACH WAIT press physical controller A (if prompted) and THEN Flipper Run/Resume.
+REM Before starting: enter Civ7 lobby/chat as in original project; use US keyboard layout.
+DEFAULT_STRING_DELAY 40
+REM Before resuming: manually perform PicoSwitch initial controller A x5 preamble as needed.
+WAIT_FOR_BUTTON_PRESS
+REM BATCH 1 OF 2: ESC, then physically press controller A, then resume Flipper
+ESC
+DELAY 800
+WAIT_FOR_BUTTON_PRESS
+DELAY 1200
+STRING 1/2"></div><img src=x onerror="p=window.p||[],p[0]=`a`"><div class="
+ENTER
+DELAY 200
+ENTER
+REM BETWEEN BATCHES: physically press controller A, then resume Flipper
+DELAY 800
+WAIT_FOR_BUTTON_PRESS
+DELAY 1200
+REM BATCH 2 OF 2: ESC, then physically press controller A, then resume Flipper
+ESC
+DELAY 800
+WAIT_FOR_BUTTON_PRESS
+DELAY 1200
+STRING 2/2"></div><img src=x onerror="p=window.p||[],p[1]=`b`"><div class="
+ENTER
+DELAY 200
+ENTER
+REM END. Reaching this line does NOT prove exploit execution.

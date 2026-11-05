@@ -1,0 +1,54 @@
+name: CivSwitch Flipper experimental static build
+
+on:
+  pull_request:
+    paths:
+      - 'badusb/CivSwitch-Experimental/**'
+      - '.github/workflows/civswitch-flipper-experimental.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pinned-source-static-build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Offline converter tests
+        working-directory: badusb/CivSwitch-Experimental
+        run: python -m unittest discover -v
+      - name: Build from pinned CivSwitch source and verify all input lines
+        working-directory: badusb/CivSwitch-Experimental
+        run: python build_from_upstream.py --output "$RUNNER_TEMP/civswitch-experimental"
+      - name: Reject any non-static validation claims in manifest
+        env:
+          OUT: ${{ runner.temp }}/civswitch-experimental
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          m = json.loads((Path(os.environ['OUT']) / 'build_manifest.json').read_text())
+          assert m['result'] == 'STATIC_VALIDATION_ONLY'
+          assert m['hardware_tested'] is False
+          assert m['console_exploit_verified'] is False
+          assert m['all_strings_byte_preserved'] is True
+          assert m['message_count'] > 0
+          assert m['longest_message_bytes'] <= 253
+          print('PASS: pinned source, generated DuckyScript, static checks only')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: civswitch-flipper-EXPERIMENTAL-UNTESTED
+          path: ${{ runner.temp }}/civswitch-experimental/
+          if-no-files-found: error
+          retention-days: 14
